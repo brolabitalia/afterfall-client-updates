@@ -1,8 +1,21 @@
 {
   "game": "Metin2 Afterfall",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "minimumLauncherVersion": "1.0.0",
   "packages": [
+    {
+      "version": "1.0.2",
+      "fromVersion": "1.0.1",
+      "fileName": "afterfall_patch_1.0.2_rollback_test.zip",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.2/afterfall_patch_1.0.2_rollback_test.zip",
+      "sha256": "1f98d4a6bb360dd959d64d4bf7ec992c9c3a1628dcff585a0434a34047958b47",
+      "sizeBytes": 639,
+      "notes": "Patch test rollback: deve fallire intenzionalmente e verificare il ripristino.",
+      "required": true,
+      "restartRequired": false,
+      "preserveUserConfig": true,
+      "patchManifestRequired": true
+    },
     {
       "version": "1.0.1",
       "fromVersion": "1.0.0",
