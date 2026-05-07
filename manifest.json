@@ -1,0 +1,8 @@
+@'
+{
+  "game": "Metin2 Afterfall",
+  "latestVersion": "1.0.0",
+  "minimumLauncherVersion": "1.0.0",
+  "packages": []
+}
+'@ | Set-Content -Encoding UTF8 manifest.json

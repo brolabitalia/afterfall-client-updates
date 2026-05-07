@@ -1,0 +1,3 @@
+New-Item packages\.gitkeep -ItemType File
+New-Item checksums\.gitkeep -ItemType File
+New-Item notes\.gitkeep -ItemType File
