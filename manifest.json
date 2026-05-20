@@ -1,6 +1,6 @@
 {
   "game": "Metin2 Afterfall",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "minimumLauncherVersion": "1.0.0",
   "packages": [
     {
@@ -11,6 +11,19 @@
       "sha256": "d1728bbb6278702d981532b34acda1c96df948c61a04db07c60e5de691b0f8fb",
       "sizeBytes": 654,
       "notes": "Patch test updater: crea file AFTERFALL_UPDATE_TEST.txt e aggiorna version.txt a 1.0.1.",
+      "required": true,
+      "restartRequired": false,
+      "preserveUserConfig": true,
+      "patchManifestRequired": true
+    },
+    {
+      "version": "1.0.2",
+      "fromVersion": "1.0.1",
+      "fileName": "afterfall_patch_1.0.2.zip",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.2/afterfall_patch_1.0.2.zip",
+      "sha256": "27503a25c61552b9cf235b50d423da467a5c3ea1641f0d9d995be7bc5db489bd",
+      "sizeBytes": 10753184,
+      "notes": "Aggiornamento icona client Afterfall.",
       "required": true,
       "restartRequired": false,
       "preserveUserConfig": true,
