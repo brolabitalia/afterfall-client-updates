@@ -1,6 +1,6 @@
 {
   "game": "Metin2 Afterfall",
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.0.3",
   "minimumLauncherVersion": "1.0.0",
   "packages": [
     {
@@ -24,6 +24,32 @@
       "sha256": "27503a25c61552b9cf235b50d423da467a5c3ea1641f0d9d995be7bc5db489bd",
       "sizeBytes": 10753184,
       "notes": "Aggiornamento icona client Afterfall.",
+      "required": true,
+      "restartRequired": false,
+      "preserveUserConfig": true,
+      "patchManifestRequired": true
+    },
+    {
+      "version": "1.0.3",
+      "fromVersion": "1.0.1",
+      "fileName": "afterfall_patch_1.0.1_to_1.0.3.zip",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.1_to_1.0.3.zip",
+      "sha256": "4afa6f4438997174b0ce6fc9d9e8bde5e60f8011c34a362ccbd174fc6c3c469e",
+      "sizeBytes": 11047297,
+      "notes": "Patch cumulativa: icona client Afterfall, fix tooltip atlas/territori e rimozione debug coordinate atlas.",
+      "required": true,
+      "restartRequired": false,
+      "preserveUserConfig": true,
+      "patchManifestRequired": true
+    },
+    {
+      "version": "1.0.3",
+      "fromVersion": "1.0.2",
+      "fileName": "afterfall_patch_1.0.2_to_1.0.3.zip",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.2_to_1.0.3.zip",
+      "sha256": "6b86be0a143878a6d6651b24025f6cfe174011089f4aac9a40b2fe889e087241",
+      "sizeBytes": 294695,
+      "notes": "Fix tooltip atlas/mappa grande per territory markers e rimozione debug coordinate atlas.",
       "required": true,
       "restartRequired": false,
       "preserveUserConfig": true,
