@@ -1,59 +1,98 @@
 {
-  "game": "Metin2 Afterfall",
-  "latestVersion": "1.0.3",
-  "minimumLauncherVersion": "1.0.0",
-  "packages": [
-    {
-      "version": "1.0.1",
-      "fromVersion": "1.0.0",
-      "fileName": "afterfall_patch_1.0.1.zip",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.1/afterfall_patch_1.0.1.zip",
-      "sha256": "d1728bbb6278702d981532b34acda1c96df948c61a04db07c60e5de691b0f8fb",
-      "sizeBytes": 654,
-      "notes": "Patch test updater: crea file AFTERFALL_UPDATE_TEST.txt e aggiorna version.txt a 1.0.1.",
-      "required": true,
-      "restartRequired": false,
-      "preserveUserConfig": true,
-      "patchManifestRequired": true
-    },
-    {
-      "version": "1.0.2",
-      "fromVersion": "1.0.1",
-      "fileName": "afterfall_patch_1.0.2.zip",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.2/afterfall_patch_1.0.2.zip",
-      "sha256": "27503a25c61552b9cf235b50d423da467a5c3ea1641f0d9d995be7bc5db489bd",
-      "sizeBytes": 10753184,
-      "notes": "Aggiornamento icona client Afterfall.",
-      "required": true,
-      "restartRequired": false,
-      "preserveUserConfig": true,
-      "patchManifestRequired": true
-    },
-    {
-      "version": "1.0.3",
-      "fromVersion": "1.0.1",
-      "fileName": "afterfall_patch_1.0.1_to_1.0.3.zip",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.1_to_1.0.3.zip",
-      "sha256": "4afa6f4438997174b0ce6fc9d9e8bde5e60f8011c34a362ccbd174fc6c3c469e",
-      "sizeBytes": 11047297,
-      "notes": "Patch cumulativa: icona client Afterfall, fix tooltip atlas/territori e rimozione debug coordinate atlas.",
-      "required": true,
-      "restartRequired": false,
-      "preserveUserConfig": true,
-      "patchManifestRequired": true
-    },
-    {
-      "version": "1.0.3",
-      "fromVersion": "1.0.2",
-      "fileName": "afterfall_patch_1.0.2_to_1.0.3.zip",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.2_to_1.0.3.zip",
-      "sha256": "6b86be0a143878a6d6651b24025f6cfe174011089f4aac9a40b2fe889e087241",
-      "sizeBytes": 294695,
-      "notes": "Fix tooltip atlas/mappa grande per territory markers e rimozione debug coordinate atlas.",
-      "required": true,
-      "restartRequired": false,
-      "preserveUserConfig": true,
-      "patchManifestRequired": true
-    }
-  ]
+    "game":  "Metin2 Afterfall",
+    "latestVersion":  "1.0.4",
+    "minimumLauncherVersion":  "1.0.0",
+    "packages":  [
+                     {
+                         "version":  "1.0.1",
+                         "fromVersion":  "1.0.0",
+                         "fileName":  "afterfall_patch_1.0.1.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.1/afterfall_patch_1.0.1.zip",
+                         "sha256":  "d1728bbb6278702d981532b34acda1c96df948c61a04db07c60e5de691b0f8fb",
+                         "sizeBytes":  654,
+                         "notes":  "Patch test updater: crea file AFTERFALL_UPDATE_TEST.txt e aggiorna version.txt a 1.0.1.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.2",
+                         "fromVersion":  "1.0.1",
+                         "fileName":  "afterfall_patch_1.0.2.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.2/afterfall_patch_1.0.2.zip",
+                         "sha256":  "27503a25c61552b9cf235b50d423da467a5c3ea1641f0d9d995be7bc5db489bd",
+                         "sizeBytes":  10753184,
+                         "notes":  "Aggiornamento icona client Afterfall.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.3",
+                         "fromVersion":  "1.0.1",
+                         "fileName":  "afterfall_patch_1.0.1_to_1.0.3.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.1_to_1.0.3.zip",
+                         "sha256":  "4afa6f4438997174b0ce6fc9d9e8bde5e60f8011c34a362ccbd174fc6c3c469e",
+                         "sizeBytes":  11047297,
+                         "notes":  "Patch cumulativa: icona client Afterfall, fix tooltip atlas/territori e rimozione debug coordinate atlas.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.3",
+                         "fromVersion":  "1.0.2",
+                         "fileName":  "afterfall_patch_1.0.2_to_1.0.3.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.3/afterfall_patch_1.0.2_to_1.0.3.zip",
+                         "sha256":  "6b86be0a143878a6d6651b24025f6cfe174011089f4aac9a40b2fe889e087241",
+                         "sizeBytes":  294695,
+                         "notes":  "Fix tooltip atlas/mappa grande per territory markers e rimozione debug coordinate atlas.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.4",
+                         "fromVersion":  "1.0.1",
+                         "fileName":  "afterfall_patch_1.0.1_to_1.0.4.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.4/afterfall_patch_1.0.1_to_1.0.4.zip",
+                         "sha256":  "3befc196443c171dc261b18263de61e523a978a70bd215ff7f8f671932dd90cf",
+                         "sizeBytes":  11064290,
+                         "notes":  "Patch cumulativa: icona client Afterfall, fix atlas/territori e icone buff Acque Biologo + Companion Spirituale.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.4",
+                         "fromVersion":  "1.0.2",
+                         "fileName":  "afterfall_patch_1.0.2_to_1.0.4.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.4/afterfall_patch_1.0.2_to_1.0.4.zip",
+                         "sha256":  "a5fc78f2466c2e42722ecb194cf516c195f19ed928ded5a14259b53afa4aeb49",
+                         "sizeBytes":  311695,
+                         "notes":  "Fix icone buff Acque Biologo + Companion Spirituale sul client.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     },
+                     {
+                         "version":  "1.0.4",
+                         "fromVersion":  "1.0.3",
+                         "fileName":  "afterfall_patch_1.0.3_to_1.0.4.zip",
+                         "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/v1.0.4/afterfall_patch_1.0.3_to_1.0.4.zip",
+                         "sha256":  "1ca9b5dded475008bf31541cfba85bb533ac58b173177b1ff8d37ac5fba04d05",
+                         "sizeBytes":  311695,
+                         "notes":  "Fix icone buff Acque Biologo + Companion Spirituale sul client.",
+                         "required":  true,
+                         "restartRequired":  false,
+                         "preserveUserConfig":  true,
+                         "patchManifestRequired":  true
+                     }
+                 ]
 }
