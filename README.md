@@ -1,13 +1,8 @@
-# Metin2 Afterfall Client Updates
+# AFTERFALL Launcher V2 Feed
 
-Repository pubblico per manifest e pacchetti di aggiornamento del client Metin2 Afterfall.
+Feed pubblico ufficiale del client Afterfall per il Launcher V2.
 
-Questo repository contiene solo materiale distribuibile lato client:
-
-- manifest update
-- pacchetti patch
-- checksum
-- note versione
-
-Non contiene sorgenti server, database, credenziali, token, strumenti interni o backup privati.
+- `current_manifest.json` e' la source of truth del client corrente.
+- Gli asset binari del client sono distribuiti tramite GitHub Releases.
+- Non devono essere pubblicati secrets, sorgenti dev, log, config utente o backup.
 
