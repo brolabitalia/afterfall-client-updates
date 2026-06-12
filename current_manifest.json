@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "buildId": "afterfall_current_20260612_184505",
-  "version": "1.0.11",
-  "producedAtUtc": "2026-06-12T16:46:30Z",
+  "buildId": "afterfall_current_20260612_201200",
+  "version": "1.0.12",
+  "producedAtUtc": "2026-06-12T18:12:59Z",
   "launcherMinVersion": "2.0.0",
   "policyVersion": "afterfall-v2-policy-2026-05-29",
   "assetModel": "flat_release_assets",
@@ -11,8 +11,8 @@
     "assetName": "client_current.zip",
     "relativeUrl": "publish/client_current.zip",
     "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/client_current.zip",
-    "sha256": "fc07933a177c95c450225081e57c01ad8415785ac58ec3ee5f7edfa0adffc551",
-    "sizeBytes": 1181316013
+    "sha256": "a018fb04e0ce8fd207a07f4382c648a58d76ee6a91a334bcc20f7e49e88b0ee1",
+    "sizeBytes": 1181317852
   },
   "files": [
     {
@@ -1067,8 +1067,8 @@
     },
     {
       "path": "pack/root.pck",
-      "sha256": "5823f97f0b8d35fe08f357e29e3c424c9edf6b8abeb546f7c47fc32fb5cb0024",
-      "sizeBytes": 501835,
+      "sha256": "ddece266fc22ce26bad651defec80bc398cb82bf13ae383f6e28eb1e9f31122b",
+      "sizeBytes": 503674,
       "category": "pack",
       "required": true,
       "assetName": "pack__root.pck",
@@ -1197,7 +1197,7 @@
     },
     {
       "path": "version.txt",
-      "sha256": "7a729dc2b3cba0696dcb06d41849b5cffae0983ec530008eb0b64c3de0134a42",
+      "sha256": "0a9c4bff103a083e77856aec9a312f728915274aebf8ce71f309bc3b9aaef08d",
       "sizeBytes": 9,
       "category": "version",
       "required": true,
@@ -1208,8 +1208,8 @@
   ],
   "tombstones": [],
   "changelogSummary": [
-    "Initial local V2 current-state manifest generated from the official client runtime snapshot.",
-    "No public upload performed in this phase.",
-    "Asset model uses flat GitHub-safe names while preserving original client paths in the manifest."
+    "Switchbot hotfix 1.0.12 published to the official current-state feed.",
+    "Added addon-only weapon targets for Danni medi and Danni abilita.",
+    "Aligned player-facing Italian bonus labels to the live client naming."
   ]
 }
