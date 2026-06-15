@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "buildId": "afterfall_current_20260612_201200",
-  "version": "1.0.12",
-  "producedAtUtc": "2026-06-12T18:12:59Z",
+  "buildId": "afterfall_current_20260615_170949",
+  "version": "1.0.13",
+  "producedAtUtc": "2026-06-15T15:10:07Z",
   "launcherMinVersion": "2.0.0",
   "policyVersion": "afterfall-v2-policy-2026-05-29",
   "assetModel": "flat_release_assets",
@@ -11,8 +11,8 @@
     "assetName": "client_current.zip",
     "relativeUrl": "publish/client_current.zip",
     "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/client_current.zip",
-    "sha256": "a018fb04e0ce8fd207a07f4382c648a58d76ee6a91a334bcc20f7e49e88b0ee1",
-    "sizeBytes": 1181317852
+    "sha256": "957833dc3d518528740d1ec6580cae56d4b519a9f4c0ed528b74f0414b8a3e1a",
+    "sizeBytes": 1181338226
   },
   "files": [
     {
@@ -277,8 +277,8 @@
     },
     {
       "path": "Metin2_RelWithDebInfo.exe",
-      "sha256": "8455bcf28b4e1a6ba128069747e530867b3e804edbe895a3c747e837aa8565bc",
-      "sizeBytes": 27565056,
+      "sha256": "6ee82ef32e967cf0dfc4b3b7fe9466c34aceae0f79b3f845a759b07ee955c107",
+      "sizeBytes": 27585536,
       "category": "executable",
       "required": true,
       "assetName": "Metin2_RelWithDebInfo.exe",
@@ -387,8 +387,8 @@
     },
     {
       "path": "pack/locale.pck",
-      "sha256": "8a0cd9509a58b28ac49a8cf84abebce11e84c7e902e7e933d9c207135da46201",
-      "sizeBytes": 10060677,
+      "sha256": "e6dba1eb6f10b1aedb71e70db6c133961c9b1be4e98c37cec1f06d87715cc2e1",
+      "sizeBytes": 10060571,
       "category": "pack",
       "required": true,
       "assetName": "pack__locale.pck",
@@ -1197,7 +1197,7 @@
     },
     {
       "path": "version.txt",
-      "sha256": "0a9c4bff103a083e77856aec9a312f728915274aebf8ce71f309bc3b9aaef08d",
+      "sha256": "00f5649bc6c69a066385b434e34a7e470c88010e4f6872c999b585dd15f10b19",
       "sizeBytes": 9,
       "category": "version",
       "required": true,
@@ -1208,8 +1208,8 @@
   ],
   "tombstones": [],
   "changelogSummary": [
-    "Switchbot hotfix 1.0.12 published to the official current-state feed.",
-    "Added addon-only weapon targets for Danni medi and Danni abilita.",
-    "Aligned player-facing Italian bonus labels to the live client naming."
+    "Initial local V2 current-state manifest generated from the official client runtime snapshot.",
+    "No public upload performed in this phase.",
+    "Asset model uses flat GitHub-safe names while preserving original client paths in the manifest."
   ]
 }
