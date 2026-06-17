@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "buildId": "afterfall_current_20260617_200802",
+  "buildId": "afterfall_current_20260617_204153",
   "version": "1.0.14",
-  "producedAtUtc": "2026-06-17T18:08:28Z",
+  "producedAtUtc": "2026-06-17T18:42:31Z",
   "launcherMinVersion": "2.0.0",
   "policyVersion": "afterfall-v2-policy-2026-05-29",
   "assetModel": "flat_release_assets",
-  "assetBaseUrl": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2",
+  "assetBaseUrl": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153",
   "currentFull": {
     "assetName": "client_current.zip",
     "relativeUrl": "publish/client_current.zip",
-    "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/client_current.zip",
-    "sha256": "d89a219d92be09d228639deda92c07bd20b10c059ec2226e641ecbf5f5285eb9",
-    "sizeBytes": 1181425139
+    "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/client_current.zip",
+    "sha256": "96476853122ac925aff2936553e8c1cdeafb60c00a2082f5fa412287e66a87d3",
+    "sizeBytes": 1181425862
   },
   "files": [
     {
@@ -277,13 +277,13 @@
     },
     {
       "path": "Metin2_RelWithDebInfo.exe",
-      "sha256": "f5b8115b54624caa7ccbcf95dfd42e838783de52685d87ade6c07245f7d1201b",
-      "sizeBytes": 27600896,
+      "sha256": "54fed67583b06fcdf376d88911fbef07392b9ca3529ee10c5e70a0209a2c6b68",
+      "sizeBytes": 27601408,
       "category": "executable",
       "required": true,
       "assetName": "Metin2_RelWithDebInfo.exe",
       "relativeUrl": "publish/assets/Metin2_RelWithDebInfo.exe",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/Metin2_RelWithDebInfo.exe"
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/Metin2_RelWithDebInfo.exe"
     },
     {
       "path": "pack/Effect.pck",
@@ -1067,13 +1067,13 @@
     },
     {
       "path": "pack/root.pck",
-      "sha256": "49fce6424c09d3d3f9b0f195f4b1cda71eae0248fe2470193b70891a009cef3d",
-      "sizeBytes": 568788,
+      "sha256": "33f2945add51ca820ca50e564db1ed3d5b223aca5cc6415d2dde6f51ae516a10",
+      "sizeBytes": 568895,
       "category": "pack",
       "required": true,
       "assetName": "pack__root.pck",
       "relativeUrl": "publish/assets/pack__root.pck",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__root.pck"
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/pack__root.pck"
     },
     {
       "path": "pack/season1.pck",
@@ -1177,13 +1177,13 @@
     },
     {
       "path": "pack/uiscript.pck",
-      "sha256": "a6551016d9f8083606662b048f04b3af075b3f6edc77b3e17c964a5b8fdc6329",
-      "sizeBytes": 87056,
+      "sha256": "e886f39343691982b370ffc3d267d7f4e8e6500555fa73fad5a41d6dd2807379",
+      "sizeBytes": 87160,
       "category": "pack",
       "required": true,
       "assetName": "pack__uiscript.pck",
       "relativeUrl": "publish/assets/pack__uiscript.pck",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__uiscript.pck"
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/pack__uiscript.pck"
     },
     {
       "path": "pack/Zone.pck",
@@ -1208,8 +1208,8 @@
   ],
   "tombstones": [],
   "changelogSummary": [
-    "Launcher V2 current feed hotfix refresh on top of public 1.0.14.",
-    "Included public-safe client changes: Mob Info target board, Staff Messenger client support, desync logging disabled.",
-    "Inventory 4 pages remains dev-only and is not included in this public release."
+    "Launcher V2 current feed refresh on top of public 1.0.14.",
+    "Included client patch set: Mob Info target board, Staff Messenger support, desync logging disabled, player inventory 4 pages.",
+    "Inventory runtime is now 0-179 with equip start 180 and belt start 212; client and server must stay paired on this build."
   ]
 }
