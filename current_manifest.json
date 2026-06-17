@@ -1,1217 +1,1215 @@
 {
-    "schemaVersion":  1,
-    "buildId":  "afterfall_current_20260616_091812",
-    "version":  "1.0.14",
-    "producedAtUtc":  "2026-06-16T07:18:45Z",
-    "launcherMinVersion":  "2.0.0",
-    "policyVersion":  "afterfall-v2-policy-2026-05-29",
-    "assetModel":  "flat_release_assets",
-    "assetBaseUrl":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2",
-    "currentFull":  {
-                        "assetName":  "client_current.zip",
-                        "relativeUrl":  "publish/client_current.zip",
-                        "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/client_current.zip",
-                        "sha256":  "1128e38a188d052b73e794dd9702a6baaef56732cb5d52018917def433ddf008",
-                        "sizeBytes":  1181367568
-                    },
-    "files":  [
-                  {
-                      "path":  "bgm/a_rhapsody_of_war.mp3",
-                      "sha256":  "cc3521460d96f81d045a6e3fbc341e3004e21f7540718ef5a3e4edce27d3608f",
-                      "sizeBytes":  5529185,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__a_rhapsody_of_war.mp3",
-                      "relativeUrl":  "publish/assets/bgm__a_rhapsody_of_war.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__a_rhapsody_of_war.mp3"
-                  },
-                  {
-                      "path":  "bgm/another_way.mp3",
-                      "sha256":  "71c39bde863f3072910046151e0e1e9a7dccdf2a5c32dd157085e5b94017f108",
-                      "sizeBytes":  3500084,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__another_way.mp3",
-                      "relativeUrl":  "publish/assets/bgm__another_way.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__another_way.mp3"
-                  },
-                  {
-                      "path":  "bgm/back_to_back.mp3",
-                      "sha256":  "d97cf5df0c376704a5e7615d351b25370e4bcac4ee13cc3bb3bb8fe878e5c6a3",
-                      "sizeBytes":  2274014,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__back_to_back.mp3",
-                      "relativeUrl":  "publish/assets/bgm__back_to_back.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__back_to_back.mp3"
-                  },
-                  {
-                      "path":  "bgm/blacksea.mp3",
-                      "sha256":  "15a196849197cb5d8b9fb0e7eab0c4657cf4675c7ba65556f3448a8eb1254782",
-                      "sizeBytes":  7010941,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__blacksea.mp3",
-                      "relativeUrl":  "publish/assets/bgm__blacksea.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__blacksea.mp3"
-                  },
-                  {
-                      "path":  "bgm/catacomb_of_devil.mp3",
-                      "sha256":  "03b5f19de134b8702e41fbdb17af6e7b3908ec18c84e5eda72576bfc6af803af",
-                      "sizeBytes":  3388394,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__catacomb_of_devil.mp3",
-                      "relativeUrl":  "publish/assets/bgm__catacomb_of_devil.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__catacomb_of_devil.mp3"
-                  },
-                  {
-                      "path":  "bgm/characterselect.mp3",
-                      "sha256":  "f1709f694320d162481cb6e6e72206099c174021f184ac4b89a54277cde150c6",
-                      "sizeBytes":  481071,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__characterselect.mp3",
-                      "relativeUrl":  "publish/assets/bgm__characterselect.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__characterselect.mp3"
-                  },
-                  {
-                      "path":  "bgm/death_of_landmark.mp3",
-                      "sha256":  "10568b068d180687a7425e3fd4f1a3f06e90a3e4e7b3ea7e49aeb9e34e0e3161",
-                      "sizeBytes":  3839779,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__death_of_landmark.mp3",
-                      "relativeUrl":  "publish/assets/bgm__death_of_landmark.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__death_of_landmark.mp3"
-                  },
-                  {
-                      "path":  "bgm/desert.mp3",
-                      "sha256":  "d7bb2a5823a80e79ed183f1abe0314ced4c522b2c04734af1676d6ce06c6959c",
-                      "sizeBytes":  3788698,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__desert.mp3",
-                      "relativeUrl":  "publish/assets/bgm__desert.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__desert.mp3"
-                  },
-                  {
-                      "path":  "bgm/dungeon_fire.mp3",
-                      "sha256":  "202b14d12237b76efb80aaf05bbe18fa7f3047e7fad0befdd3c757bdcb8a2f13",
-                      "sizeBytes":  4206772,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__dungeon_fire.mp3",
-                      "relativeUrl":  "publish/assets/bgm__dungeon_fire.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__dungeon_fire.mp3"
-                  },
-                  {
-                      "path":  "bgm/enter_the_east.mp3",
-                      "sha256":  "3b7a6ae71215fb405d41e231fa0b6245c0251c871b385b6c4d5931713441bf74",
-                      "sizeBytes":  3289237,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__enter_the_east.mp3",
-                      "relativeUrl":  "publish/assets/bgm__enter_the_east.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__enter_the_east.mp3"
-                  },
-                  {
-                      "path":  "bgm/follow_war_god.mp3",
-                      "sha256":  "3e28049ee9c02ba32562deae22c63aa70d107665af15edcbd8e6eb3a90dc66d9",
-                      "sizeBytes":  4960760,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__follow_war_god.mp3",
-                      "relativeUrl":  "publish/assets/bgm__follow_war_god.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__follow_war_god.mp3"
-                  },
-                  {
-                      "path":  "bgm/last-war2.mp3",
-                      "sha256":  "ffda972ae191c5ae3c437bdd13abb47ada94277c3355377c7aeb8ac5fed98b2f",
-                      "sizeBytes":  2516430,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__last-war2.mp3",
-                      "relativeUrl":  "publish/assets/bgm__last-war2.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__last-war2.mp3"
-                  },
-                  {
-                      "path":  "bgm/login_window.mp3",
-                      "sha256":  "4c8d3899cddb2cfb876a619311a5fe19f1d7b6bcbe93a02a7e6299e144560be7",
-                      "sizeBytes":  307617,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__login_window.mp3",
-                      "relativeUrl":  "publish/assets/bgm__login_window.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__login_window.mp3"
-                  },
-                  {
-                      "path":  "bgm/lost_my_name.mp3",
-                      "sha256":  "6b1d4948bd95decd3d3f378a96bc03d13be62a051cc2f6092c9308029a3745a5",
-                      "sizeBytes":  2235562,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__lost_my_name.mp3",
-                      "relativeUrl":  "publish/assets/bgm__lost_my_name.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__lost_my_name.mp3"
-                  },
-                  {
-                      "path":  "bgm/m2bg.mp3",
-                      "sha256":  "aa81cced52c34a004f7b012d276ba6866f2cb6a381a66ac07d7fec5545ebda96",
-                      "sizeBytes":  3793815,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__m2bg.mp3",
-                      "relativeUrl":  "publish/assets/bgm__m2bg.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__m2bg.mp3"
-                  },
-                  {
-                      "path":  "bgm/misty_forest.mp3",
-                      "sha256":  "193a67b2ac9007d0f57a3ad6f1d7200ee4ba2b182c6949cd155762a4a418e512",
-                      "sizeBytes":  4763992,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__misty_forest.mp3",
-                      "relativeUrl":  "publish/assets/bgm__misty_forest.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__misty_forest.mp3"
-                  },
-                  {
-                      "path":  "bgm/monkey_temple.mp3",
-                      "sha256":  "86776c3846570cfaaebd6b33f493c3971ee7e3098b68bb9714238526fef42fed",
-                      "sizeBytes":  3960321,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__monkey_temple.mp3",
-                      "relativeUrl":  "publish/assets/bgm__monkey_temple.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__monkey_temple.mp3"
-                  },
-                  {
-                      "path":  "bgm/mountain_of_death.mp3",
-                      "sha256":  "1d117ca3b1996e4e258d8c07c8fb67c39ae87efffb994e659e557bd311d54a6c",
-                      "sizeBytes":  2552965,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__mountain_of_death.mp3",
-                      "relativeUrl":  "publish/assets/bgm__mountain_of_death.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__mountain_of_death.mp3"
-                  },
-                  {
-                      "path":  "bgm/mt.mp3",
-                      "sha256":  "2937b649fe95c517667a0d2111962191f465ed43dd79ebbf65921a667de1627a",
-                      "sizeBytes":  7105609,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__mt.mp3",
-                      "relativeUrl":  "publish/assets/bgm__mt.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__mt.mp3"
-                  },
-                  {
-                      "path":  "bgm/Only_my_battle.mp3",
-                      "sha256":  "ed8834ac52d79b6907ec99862891d9aefaf75a9906b06e3d2f4d1b14cf8c4386",
-                      "sizeBytes":  2396581,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__Only_my_battle.mp3",
-                      "relativeUrl":  "publish/assets/bgm__Only_my_battle.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__Only_my_battle.mp3"
-                  },
-                  {
-                      "path":  "bgm/open_the_gate.mp3",
-                      "sha256":  "af4eb2d9c4d0dd66a7d8d1b926ce2c45d2275618d3e58d1ab7fb60c43f979322",
-                      "sizeBytes":  2831572,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__open_the_gate.mp3",
-                      "relativeUrl":  "publish/assets/bgm__open_the_gate.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__open_the_gate.mp3"
-                  },
-                  {
-                      "path":  "bgm/save_me.mp3",
-                      "sha256":  "f02e29e116a6573062b418613f0d81f9cb1aa8d5847f4ca7707dc2024395e6ad",
-                      "sizeBytes":  3040133,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__save_me.mp3",
-                      "relativeUrl":  "publish/assets/bgm__save_me.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__save_me.mp3"
-                  },
-                  {
-                      "path":  "bgm/wedding.mp3",
-                      "sha256":  "a1ba70563a2d10099e43fd65882727d8c438985d838483c3318a5a826b887841",
-                      "sizeBytes":  962458,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__wedding.mp3",
-                      "relativeUrl":  "publish/assets/bgm__wedding.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__wedding.mp3"
-                  },
-                  {
-                      "path":  "bgm/wonderland.mp3",
-                      "sha256":  "de6bee7f556d9c3b9a4989197153c59d7ed5ee015b8e905fec828fc5201fb6b6",
-                      "sizeBytes":  4128917,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__wonderland.mp3",
-                      "relativeUrl":  "publish/assets/bgm__wonderland.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__wonderland.mp3"
-                  },
-                  {
-                      "path":  "bgm/xmas.mp3",
-                      "sha256":  "550633a9aecaa6eba7ec0f8200426482fe768fbb8985e242ec9ab4ae58000b66",
-                      "sizeBytes":  1071229,
-                      "category":  "bgm",
-                      "required":  true,
-                      "assetName":  "bgm__xmas.mp3",
-                      "relativeUrl":  "publish/assets/bgm__xmas.mp3",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__xmas.mp3"
-                  },
-                  {
-                      "path":  "d3dx9_43.dll",
-                      "sha256":  "84b900dbd7fa978d6e0caee26fc54f2f61d92c9c75d10b35f00e3e82cd1d67b4",
-                      "sizeBytes":  2401112,
-                      "category":  "managed",
-                      "required":  true,
-                      "assetName":  "d3dx9_43.dll",
-                      "relativeUrl":  "publish/assets/d3dx9_43.dll",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/d3dx9_43.dll"
-                  },
-                  {
-                      "path":  "Metin2_RelWithDebInfo.exe",
-                      "sha256":  "6ee82ef32e967cf0dfc4b3b7fe9466c34aceae0f79b3f845a759b07ee955c107",
-                      "sizeBytes":  27585536,
-                      "category":  "executable",
-                      "required":  true,
-                      "assetName":  "Metin2_RelWithDebInfo.exe",
-                      "relativeUrl":  "publish/assets/Metin2_RelWithDebInfo.exe",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/Metin2_RelWithDebInfo.exe"
-                  },
-                  {
-                      "path":  "pack/Effect.pck",
-                      "sha256":  "cd34a0b4c54cb9424e35bc9ddfd4d921f066ad61a0900a3e902be9bbddb1b7f2",
-                      "sizeBytes":  3320416,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Effect.pck",
-                      "relativeUrl":  "publish/assets/pack__Effect.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Effect.pck"
-                  },
-                  {
-                      "path":  "pack/ETC.pck",
-                      "sha256":  "381bd1731fda0777c9d775c24320141187c80a1e1e29e0975283f6c3c89b23b3",
-                      "sizeBytes":  30798074,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__ETC.pck",
-                      "relativeUrl":  "publish/assets/pack__ETC.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__ETC.pck"
-                  },
-                  {
-                      "path":  "pack/guild.pck",
-                      "sha256":  "b6109c7ac23880b92f0c731ddc001c224c1660686af675303595df6e3f58f271",
-                      "sizeBytes":  5444384,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__guild.pck",
-                      "relativeUrl":  "publish/assets/pack__guild.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__guild.pck"
-                  },
-                  {
-                      "path":  "pack/icon.pck",
-                      "sha256":  "eb97c7e72224062656d372d75a58ac72ffa0339422ba87a0a2edb2e522612e1e",
-                      "sizeBytes":  5098472,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__icon.pck",
-                      "relativeUrl":  "publish/assets/pack__icon.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__icon.pck"
-                  },
-                  {
-                      "path":  "pack/indoordeviltower1.pck",
-                      "sha256":  "fe66de2c42811a38590a9181e7bb78a5678a1f41d7289814718115640719cd9e",
-                      "sizeBytes":  81113,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__indoordeviltower1.pck",
-                      "relativeUrl":  "publish/assets/pack__indoordeviltower1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoordeviltower1.pck"
-                  },
-                  {
-                      "path":  "pack/indoormonkeydungeon1.pck",
-                      "sha256":  "782baf18a9ab503868fb227809f6dab92c7cbd8474bcf1327fa3e9ad2d3879e8",
-                      "sizeBytes":  93043,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__indoormonkeydungeon1.pck",
-                      "relativeUrl":  "publish/assets/pack__indoormonkeydungeon1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon1.pck"
-                  },
-                  {
-                      "path":  "pack/indoormonkeydungeon2.pck",
-                      "sha256":  "8cfc03b9c29e3bc3b47ce7a34d8fda47abc2062f113109903ef216c899aa0fea",
-                      "sizeBytes":  106939,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__indoormonkeydungeon2.pck",
-                      "relativeUrl":  "publish/assets/pack__indoormonkeydungeon2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon2.pck"
-                  },
-                  {
-                      "path":  "pack/indoormonkeydungeon3.pck",
-                      "sha256":  "19c8a4d6c72d73155ea7f21f9ecc2c8915a01e6020a9567872be6a48a68cab28",
-                      "sizeBytes":  106092,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__indoormonkeydungeon3.pck",
-                      "relativeUrl":  "publish/assets/pack__indoormonkeydungeon3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon3.pck"
-                  },
-                  {
-                      "path":  "pack/indoorspiderdungeon1.pck",
-                      "sha256":  "cd1b6f01a952ed798b4db8e85c8aae4df31aa5d815d6efac19c5df3e6e9bb46d",
-                      "sizeBytes":  56092,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__indoorspiderdungeon1.pck",
-                      "relativeUrl":  "publish/assets/pack__indoorspiderdungeon1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoorspiderdungeon1.pck"
-                  },
-                  {
-                      "path":  "pack/item.pck",
-                      "sha256":  "c7503bd522969a4d5b37f7cb9af6e2c58864a80ef1e6054950b107932fd7ddf8",
-                      "sizeBytes":  6918513,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__item.pck",
-                      "relativeUrl":  "publish/assets/pack__item.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__item.pck"
-                  },
-                  {
-                      "path":  "pack/locale.pck",
-                      "sha256":  "e6dba1eb6f10b1aedb71e70db6c133961c9b1be4e98c37cec1f06d87715cc2e1",
-                      "sizeBytes":  10060571,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__locale.pck",
-                      "relativeUrl":  "publish/assets/pack__locale.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__locale.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_5th_armor.pck",
-                      "sha256":  "10d9268309f7787c2aa47f30c4bf9d9d5ea8fdbf630143df18b882bd39a19103",
-                      "sizeBytes":  5395464,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_5th_armor.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_5th_armor.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_5th_armor.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_costume_soccer.pck",
-                      "sha256":  "21de0ba282a78ac047c8df48f6b3963e06a09052c803cb836fcdb059f2f53cbe",
-                      "sizeBytes":  55922329,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_costume_soccer.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_costume_soccer.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_costume_soccer.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dance.pck",
-                      "sha256":  "00de4d9f638696348ef5a33419dfcff0b4bcaafa3662222944a3a1fbd670165e",
-                      "sizeBytes":  7543922,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dance.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dance.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dance.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dragon_rock.pck",
-                      "sha256":  "68b6194e8e28ec76d4e1b405c9203a0028a04964e3908c63969a6931e2179a6a",
-                      "sizeBytes":  22189997,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dragon_rock.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dragon_rock.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dragon_rock_mobs.pck",
-                      "sha256":  "f7eafff44d90b37a43fd77b1e9a696c6ea73ee1ba042bb4a1c59c81b89d9b9fd",
-                      "sizeBytes":  54488526,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dragon_rock_mobs.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dragon_rock_mobs.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_mobs.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dragon_rock_mobs_texcache.pck",
-                      "sha256":  "5b6e90a0d92676b6ea78fa6df605fff5b0b7f79f70137d7e5e2652262a3433cd",
-                      "sizeBytes":  14071327,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dragon_rock_mobs_texcache.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dragon_rock_mobs_texcache.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_mobs_texcache.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dragon_rock_texcache.pck",
-                      "sha256":  "926181f566e76618afa64e2659f1f85e90827b05d50f78481e8ea2737b085be4",
-                      "sizeBytes":  40080263,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dragon_rock_texcache.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dragon_rock_texcache.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_texcache.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_ds.pck",
-                      "sha256":  "d6379701b6e409c86f1d8f75e2dd663742b2a4a3df0cc9c3b953f99011324ece",
-                      "sizeBytes":  793133,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_ds.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_ds.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_ds.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_dss_box.pck",
-                      "sha256":  "ee9c7191e02dac00fc4e320da67bb03e9683bb2b9ff1905cacb13c55c7da3b67",
-                      "sizeBytes":  270297,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_dss_box.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_dss_box.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dss_box.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_easter1.pck",
-                      "sha256":  "6406ef56260c7ccfa46f3c517898700ad677f6ef59edd084b63978e9344265ea",
-                      "sizeBytes":  6479651,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_easter1.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_easter1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_easter1.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_etc.pck",
-                      "sha256":  "a94ebe41b03ad38f3d4873aae7f7d0bc897cf88df895879edb8f54e3e2c3691c",
-                      "sizeBytes":  4571661,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_etc.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_etc.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_etc.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_etc_costume1.pck",
-                      "sha256":  "afbcfc0735abe3b5aab410d44379f251706e4306b501c8c9a356dacddd4b6dca",
-                      "sizeBytes":  11844796,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_etc_costume1.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_etc_costume1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_etc_costume1.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_eu3.pck",
-                      "sha256":  "e12d81079f6e93df55b9a39272ed4af4e31de37c80f4537672911e32fe180bac",
-                      "sizeBytes":  30384959,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_eu3.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_eu3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_eu3.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_eu4.pck",
-                      "sha256":  "a46f010a0ba4f31f70e49ae6284b49d8d19507e65c3264564e47b16078373e41",
-                      "sizeBytes":  9357458,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_eu4.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_eu4.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_eu4.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_flame.pck",
-                      "sha256":  "2b8cef290278ee3f7d901bbc99d8c097661e849fd41ffadc8bb806adbc8e0618",
-                      "sizeBytes":  4282087,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_flame.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_flame.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_flame.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_flame_dungeon.pck",
-                      "sha256":  "3d79ccc42baf30766d2d77ef8fe45defc342a6492d2b0d184a154cdf8a1ffe8d",
-                      "sizeBytes":  5833262,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_flame_dungeon.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_flame_dungeon.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_flame_dungeon.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_halloween.pck",
-                      "sha256":  "1daedbedea409b73a07a25fee2fddfffdec16cfce562d3195245de0fa98475a8",
-                      "sizeBytes":  5089097,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_halloween.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_halloween.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_halloween.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_mineral.pck",
-                      "sha256":  "72b537b0a7c1c43b9d5ab7cb6831808faadaf456c2a9800ad7648eaa1c3eea10",
-                      "sizeBytes":  348526,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_mineral.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_mineral.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_mineral.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_mundi.pck",
-                      "sha256":  "7a2bad32d0b4a9bbb2f75ae16933a5942e7dc4910a1ef583faa2136372100974",
-                      "sizeBytes":  41298537,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_mundi.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_mundi.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_mundi.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_party.pck",
-                      "sha256":  "e42f3c77326360edf0d95b3889c0de3722ff53453b4c31cdb9500fe92b3c7cc0",
-                      "sizeBytes":  10610238,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_party.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_party.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_party.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_pet1.pck",
-                      "sha256":  "e65b6d65acdfe098874097a53eaade0717f62b642d762f0ce2cc51ed2c584ebf",
-                      "sizeBytes":  7163063,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_pet1.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_pet1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_pet1.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_pet2.pck",
-                      "sha256":  "a6120f888e30781ef4dc749276566a8325c4093ed718f21a2ca34b32cb5e8455",
-                      "sizeBytes":  3133521,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_pet2.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_pet2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_pet2.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_ramadan_costume.pck",
-                      "sha256":  "d0aaccb8a5010b9fde2437947534c8c2e02fb04d2608e7ababa606a4124f81f5",
-                      "sizeBytes":  1850030,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_ramadan_costume.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_ramadan_costume.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_ramadan_costume.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_sd.pck",
-                      "sha256":  "44ea618597120034bc0562b62d1a17d53707ccac5f7fad3daa5866d0ebafbece",
-                      "sizeBytes":  3280530,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_sd.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_sd.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_sd.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_snow.pck",
-                      "sha256":  "73f1e34f431178410ff8d204b96930a1ce4144ad712811a5b2566b453e2390ab",
-                      "sizeBytes":  2666443,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_snow.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_snow.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_snow.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_snow_dungeon.pck",
-                      "sha256":  "52d1a1acb9c58db748e530bcbcdacea5d80d7b9236e2e16a994a59d62928b989",
-                      "sizeBytes":  9252246,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_snow_dungeon.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_snow_dungeon.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_snow_dungeon.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_w20_etc.pck",
-                      "sha256":  "f25909f434f3d12170431bdcf2c1898582c55dfe5d956c9e1d55358412549681",
-                      "sizeBytes":  371631,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_w20_etc.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_w20_etc.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w20_etc.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_w20_sound.pck",
-                      "sha256":  "da857334a650de68fb5d5f78934081b143983837facb6a6b13268ecf675258dc",
-                      "sizeBytes":  11980250,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_w20_sound.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_w20_sound.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w20_sound.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_w21_etc.pck",
-                      "sha256":  "4e0a4f861dd62aa673e9719469f07ddfde35e937bd70dc5225679c3c6a8c6408",
-                      "sizeBytes":  101829,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_w21_etc.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_w21_etc.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_etc.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_w21_mobs.pck",
-                      "sha256":  "01f9b22114b73f47060ee360e5fcb48b413ede197da41380aa8f12dcb1428bca",
-                      "sizeBytes":  8355846,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_w21_mobs.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_w21_mobs.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_mobs.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_w21_mobs_m.pck",
-                      "sha256":  "891cd81eac7c8d370061d6f725fdad82594488b16d65d1bb81f2f70c2f5b7006",
-                      "sizeBytes":  147267,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_w21_mobs_m.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_w21_mobs_m.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_mobs_m.pck"
-                  },
-                  {
-                      "path":  "pack/metin2_patch_xmas.pck",
-                      "sha256":  "fc421678f8090c1f604c73cc938dc21ac34c5ac75e21ea6af2c00dcc94c01141",
-                      "sizeBytes":  15841662,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__metin2_patch_xmas.pck",
-                      "relativeUrl":  "publish/assets/pack__metin2_patch_xmas.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_xmas.pck"
-                  },
-                  {
-                      "path":  "pack/Monster.pck",
-                      "sha256":  "08d8013adedb7b1b1aab4f2090465a91f7976b26c7bec0dffc33b9bf012a0793",
-                      "sizeBytes":  62712106,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Monster.pck",
-                      "relativeUrl":  "publish/assets/pack__Monster.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Monster.pck"
-                  },
-                  {
-                      "path":  "pack/monster2.pck",
-                      "sha256":  "c1485269c5896dfaedce16524c2895d06140f421eb0e98122f2aae4af6d97be8",
-                      "sizeBytes":  26993102,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__monster2.pck",
-                      "relativeUrl":  "publish/assets/pack__monster2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__monster2.pck"
-                  },
-                  {
-                      "path":  "pack/NPC.pck",
-                      "sha256":  "6ee017d3660e8715d32a250c0d2deed979384bb567c661aa0a1a04b20d830a82",
-                      "sizeBytes":  18612295,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__NPC.pck",
-                      "relativeUrl":  "publish/assets/pack__NPC.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__NPC.pck"
-                  },
-                  {
-                      "path":  "pack/npc2.pck",
-                      "sha256":  "508d1028d0ac7433c6734f638a752d3c6b2a89a9cb5b7b0fb0ccb873a9dec7cb",
-                      "sizeBytes":  262791,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__npc2.pck",
-                      "relativeUrl":  "publish/assets/pack__npc2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__npc2.pck"
-                  },
-                  {
-                      "path":  "pack/Outdoor.pck",
-                      "sha256":  "bfe0e7ce696c7b4e7a829be644fa7645a8af942bd39da2d0f065e8a57c612ac1",
-                      "sizeBytes":  1203274,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Outdoor.pck",
-                      "relativeUrl":  "publish/assets/pack__Outdoor.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Outdoor.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorA1.pck",
-                      "sha256":  "9124eb90226a96a57767392a35a54bff8da03cd0f4567816dedf75e6a360782e",
-                      "sizeBytes":  1403269,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorA1.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorA1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA1.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorA2.pck",
-                      "sha256":  "e45273044c6ccbe2701471ec89c7207b3997ee97d1e84bd98d3e92ec2ab31d04",
-                      "sizeBytes":  2501383,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorA2.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorA2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA2.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorA3.pck",
-                      "sha256":  "5b1e8e747f4d81aca0129bc36c9550fcf68c69f9084369e96d5251c80ee4e6a1",
-                      "sizeBytes":  1114472,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorA3.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorA3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA3.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorB1.pck",
-                      "sha256":  "05f5b8521174657be108062e9e01ec05222b8c7c8650b5ac1916689d106ef1be",
-                      "sizeBytes":  1682615,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorB1.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorB1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorB1.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorB3.pck",
-                      "sha256":  "37bbedbb4c4f491c3a0868525266f86976ac7398f770d0f51bdadbef7acb8bd1",
-                      "sizeBytes":  1667099,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorB3.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorB3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorB3.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorC1.pck",
-                      "sha256":  "cd497ac915faeda9b2eaa03a3fcc88cb5a44b681e70fd15b09aad5cffb59c24f",
-                      "sizeBytes":  1134910,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorC1.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorC1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorC1.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorC3.pck",
-                      "sha256":  "537041e190289e9af1d6e77721ad7bb262b563838c6e9bc6d7622232d21c0b1e",
-                      "sizeBytes":  1077969,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorC3.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorC3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorC3.pck"
-                  },
-                  {
-                      "path":  "pack/outdoordesert1.pck",
-                      "sha256":  "07d0a88f9ca267a8b8c2adbe27b2827de88fe9cb3bb22662fc1095578797dfdd",
-                      "sizeBytes":  2098172,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoordesert1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoordesert1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoordesert1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorduel.pck",
-                      "sha256":  "550966a71c59dd6035f30b61bf56b812d85af07b61118585175189dc2105b657",
-                      "sizeBytes":  60618,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorduel.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorduel.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorduel.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorempirebattle1.pck",
-                      "sha256":  "85e63f99ea858d6bd913ebce8d4da9e9aca3cf4a56957f322a3eea960abfaf12",
-                      "sizeBytes":  656535,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorempirebattle1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorempirebattle1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorempirebattle1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorfielddungeon1.pck",
-                      "sha256":  "be20b738e0df6d095608b9399477b2638ca5a45ba4a71f38088d51beab248474",
-                      "sizeBytes":  256655,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorfielddungeon1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorfielddungeon1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorfielddungeon1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorflame1.pck",
-                      "sha256":  "9fdbbdaa4aad5beddd4939c36990c7d1726ed0fca9b47f97503c1e5103f4eb5d",
-                      "sizeBytes":  2344555,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorflame1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorflame1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorflame1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorgmguildbuild.pck",
-                      "sha256":  "89135ce3078b3ba25f26ed5954d510581e60db81901a354de95b0c17529fe4d7",
-                      "sizeBytes":  42506,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorgmguildbuild.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorgmguildbuild.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorgmguildbuild.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorguild1.pck",
-                      "sha256":  "b5954f666153643865143b84f61a50f4b9043f7e07531ad20ddf720ef26b7566",
-                      "sizeBytes":  273915,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorguild1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorguild1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorguild2.pck",
-                      "sha256":  "7d1eb1ef4fad220894c18bb6706999c39531faf77d6d8574b97e67ba31b8c56f",
-                      "sizeBytes":  248116,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorguild2.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorguild2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild2.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorguild3.pck",
-                      "sha256":  "a8ac7faa5199f6ca6772bb90d9a229b18e8c1a6917eb31d333954fd0660f575a",
-                      "sizeBytes":  264627,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorguild3.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorguild3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild3.pck"
-                  },
-                  {
-                      "path":  "pack/outdoormilgyo1.pck",
-                      "sha256":  "65386b8e2a1229f6791b25d6994d999e5afd2611e482d5b9d79c315936c00f65",
-                      "sizeBytes":  939716,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoormilgyo1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoormilgyo1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoormilgyo1.pck"
-                  },
-                  {
-                      "path":  "pack/OutdoorSnow1.pck",
-                      "sha256":  "57f66481a63518e61d3b0ef07452c045cda42b6f9f6cf39f956b56ceba536ff7",
-                      "sizeBytes":  2640836,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__OutdoorSnow1.pck",
-                      "relativeUrl":  "publish/assets/pack__OutdoorSnow1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorSnow1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoort1.pck",
-                      "sha256":  "703141ba500d0f04c5ba5453a015589cf77f6ddad51bc95475cdc01d5ad57e6f",
-                      "sizeBytes":  583508,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoort1.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoort1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort1.pck"
-                  },
-                  {
-                      "path":  "pack/outdoort2.pck",
-                      "sha256":  "96399ca0f17361e8b8624973680fd079f6c18002f517e2ded2944d8995ed003a",
-                      "sizeBytes":  81526,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoort2.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoort2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort2.pck"
-                  },
-                  {
-                      "path":  "pack/outdoort3.pck",
-                      "sha256":  "3e1b2bb0b49fee6554103acb02637b2e06a489284c702e222937ea13820af2f6",
-                      "sizeBytes":  71265,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoort3.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoort3.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort3.pck"
-                  },
-                  {
-                      "path":  "pack/outdoort4.pck",
-                      "sha256":  "fb579d446fd5b142106899c71089a09a58a52dde03777c6ab670fee9c4bed910",
-                      "sizeBytes":  70170,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoort4.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoort4.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort4.pck"
-                  },
-                  {
-                      "path":  "pack/outdoortrent.pck",
-                      "sha256":  "494acfdc490521a8755a86f3e2e0a9b16ad66b40ad585b08888605f7f970e802",
-                      "sizeBytes":  313164,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoortrent.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoortrent.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoortrent.pck"
-                  },
-                  {
-                      "path":  "pack/outdoortrent02.pck",
-                      "sha256":  "c74aaf75092403938ab72e6195d18baec54570383e912dc8a1658a27689c311f",
-                      "sizeBytes":  730879,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoortrent02.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoortrent02.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoortrent02.pck"
-                  },
-                  {
-                      "path":  "pack/outdoorwedding.pck",
-                      "sha256":  "182f09f1c53e117d0fd952843184e62b87b98c03c8ba1ca97336b55219dd4281",
-                      "sizeBytes":  75767,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__outdoorwedding.pck",
-                      "relativeUrl":  "publish/assets/pack__outdoorwedding.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorwedding.pck"
-                  },
-                  {
-                      "path":  "pack/patch1.pck",
-                      "sha256":  "c1c680d71ca25c403a803de8d116b8493fac2a70eb08bc13fb7fdf0c3d392c64",
-                      "sizeBytes":  79095470,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__patch1.pck",
-                      "relativeUrl":  "publish/assets/pack__patch1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__patch1.pck"
-                  },
-                  {
-                      "path":  "pack/patch2.pck",
-                      "sha256":  "571d06d9caf33161e8de0b303f9091c7895290de4145b024ec6edfa34dc9b1b2",
-                      "sizeBytes":  18385263,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__patch2.pck",
-                      "relativeUrl":  "publish/assets/pack__patch2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__patch2.pck"
-                  },
-                  {
-                      "path":  "pack/PC.pck",
-                      "sha256":  "c55d129cffc0060776a577a9ca7cfe98abecdc3997fa4afd1eaaf66257e06a02",
-                      "sizeBytes":  63392343,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__PC.pck",
-                      "relativeUrl":  "publish/assets/pack__PC.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__PC.pck"
-                  },
-                  {
-                      "path":  "pack/pc2.pck",
-                      "sha256":  "5d420e5a31ba63fd1738ad15104b93068855a8b10f304287f15a64cdb4d5afa5",
-                      "sizeBytes":  56524009,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__pc2.pck",
-                      "relativeUrl":  "publish/assets/pack__pc2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__pc2.pck"
-                  },
-                  {
-                      "path":  "pack/Property.pck",
-                      "sha256":  "fc1586014c8f1c9ff3c71bd3466b3e801159eeab45b058ae42c35da01941eaa8",
-                      "sizeBytes":  10198420,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Property.pck",
-                      "relativeUrl":  "publish/assets/pack__Property.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Property.pck"
-                  },
-                  {
-                      "path":  "pack/root.pck",
-                      "sha256":  "bfd84d71537077ed19f73729b742ff9517aba64bb32431067b02768492279089",
-                      "sizeBytes":  526577,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__root.pck",
-                      "relativeUrl":  "publish/assets/pack__root.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__root.pck"
-                  },
-                  {
-                      "path":  "pack/season1.pck",
-                      "sha256":  "f31a7ce6816062b8aaef850a7ba09c3a6709ce5c39d1c7b64fbc322d5834ed3f",
-                      "sizeBytes":  46136133,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__season1.pck",
-                      "relativeUrl":  "publish/assets/pack__season1.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season1.pck"
-                  },
-                  {
-                      "path":  "pack/season2.pck",
-                      "sha256":  "136c30bc12098bc2a3e97ac025b31df0e9000fc9977d19fadf58180ff93be817",
-                      "sizeBytes":  18044309,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__season2.pck",
-                      "relativeUrl":  "publish/assets/pack__season2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season2.pck"
-                  },
-                  {
-                      "path":  "pack/season3_eu.pck",
-                      "sha256":  "1f59000b2ab12562ccb7401ed0e8960466a720c00c244aee6421ede449b523e3",
-                      "sizeBytes":  23481964,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__season3_eu.pck",
-                      "relativeUrl":  "publish/assets/pack__season3_eu.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season3_eu.pck"
-                  },
-                  {
-                      "path":  "pack/Sound.pck",
-                      "sha256":  "bd34875fa34b87e2ebec52e0975c2fef01d90a045736cd21c22b6c8f70afcf67",
-                      "sizeBytes":  40060762,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Sound.pck",
-                      "relativeUrl":  "publish/assets/pack__Sound.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Sound.pck"
-                  },
-                  {
-                      "path":  "pack/sound2.pck",
-                      "sha256":  "e56b2a1c87da758aff388bfa46ee8c2e61e6638d9d518801c5739ab0390a6920",
-                      "sizeBytes":  20723897,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__sound2.pck",
-                      "relativeUrl":  "publish/assets/pack__sound2.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__sound2.pck"
-                  },
-                  {
-                      "path":  "pack/sound_m.pck",
-                      "sha256":  "c6cccd81e1965307fcc57a34578bd34c057d7a8150c12f5d4f355bbd638db422",
-                      "sizeBytes":  642541,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__sound_m.pck",
-                      "relativeUrl":  "publish/assets/pack__sound_m.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__sound_m.pck"
-                  },
-                  {
-                      "path":  "pack/Terrain.pck",
-                      "sha256":  "6948cbedff520351de47ee92e5ed88fb43e59c81f51f532d4719d5f35e164e54",
-                      "sizeBytes":  10216043,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Terrain.pck",
-                      "relativeUrl":  "publish/assets/pack__Terrain.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Terrain.pck"
-                  },
-                  {
-                      "path":  "pack/textureset.pck",
-                      "sha256":  "42b17b5f1b144b415176cd5f34a297c6f0ad787a7524ed19852f7dce3493af42",
-                      "sizeBytes":  25162,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__textureset.pck",
-                      "relativeUrl":  "publish/assets/pack__textureset.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__textureset.pck"
-                  },
-                  {
-                      "path":  "pack/Tree.pck",
-                      "sha256":  "60636d9b879921cd8356afd5c190663f35fd71964495e8ac4320428edf878c97",
-                      "sizeBytes":  3264060,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Tree.pck",
-                      "relativeUrl":  "publish/assets/pack__Tree.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Tree.pck"
-                  },
-                  {
-                      "path":  "pack/uiloading.pck",
-                      "sha256":  "45fc60c6ff2176f028b7bbba077b0b300cb50974604344a0166aca5e7682144b",
-                      "sizeBytes":  285519,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__uiloading.pck",
-                      "relativeUrl":  "publish/assets/pack__uiloading.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__uiloading.pck"
-                  },
-                  {
-                      "path":  "pack/uiscript.pck",
-                      "sha256":  "a6551016d9f8083606662b048f04b3af075b3f6edc77b3e17c964a5b8fdc6329",
-                      "sizeBytes":  87056,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__uiscript.pck",
-                      "relativeUrl":  "publish/assets/pack__uiscript.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__uiscript.pck"
-                  },
-                  {
-                      "path":  "pack/Zone.pck",
-                      "sha256":  "e23f50dc1a9a5aa7b8bbe55b03c61bfb716e2cba8c7b0865ab53925000f8885e",
-                      "sizeBytes":  87139615,
-                      "category":  "pack",
-                      "required":  true,
-                      "assetName":  "pack__Zone.pck",
-                      "relativeUrl":  "publish/assets/pack__Zone.pck",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Zone.pck"
-                  },
-                  {
-                      "path":  "version.txt",
-                      "sha256":  "20df603e198c4f9aa9f50c9da5f4c1679aa05b14fd99fb444875b27028f98888",
-                      "sizeBytes":  9,
-                      "category":  "version",
-                      "required":  true,
-                      "assetName":  "version.txt",
-                      "relativeUrl":  "publish/assets/version.txt",
-                      "url":  "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/version.txt"
-                  }
-              ],
-    "tombstones":  [
-
-                   ],
-    "changelogSummary":  [
-                             "Initial local V2 current-state manifest generated from the official client runtime snapshot.",
-                             "No public upload performed in this phase.",
-                             "Asset model uses flat GitHub-safe names while preserving original client paths in the manifest."
-                         ]
+  "schemaVersion": 1,
+  "buildId": "afterfall_current_20260617_200802",
+  "version": "1.0.14",
+  "producedAtUtc": "2026-06-17T18:08:28Z",
+  "launcherMinVersion": "2.0.0",
+  "policyVersion": "afterfall-v2-policy-2026-05-29",
+  "assetModel": "flat_release_assets",
+  "assetBaseUrl": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2",
+  "currentFull": {
+    "assetName": "client_current.zip",
+    "relativeUrl": "publish/client_current.zip",
+    "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/client_current.zip",
+    "sha256": "d89a219d92be09d228639deda92c07bd20b10c059ec2226e641ecbf5f5285eb9",
+    "sizeBytes": 1181425139
+  },
+  "files": [
+    {
+      "path": "bgm/a_rhapsody_of_war.mp3",
+      "sha256": "cc3521460d96f81d045a6e3fbc341e3004e21f7540718ef5a3e4edce27d3608f",
+      "sizeBytes": 5529185,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__a_rhapsody_of_war.mp3",
+      "relativeUrl": "publish/assets/bgm__a_rhapsody_of_war.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__a_rhapsody_of_war.mp3"
+    },
+    {
+      "path": "bgm/another_way.mp3",
+      "sha256": "71c39bde863f3072910046151e0e1e9a7dccdf2a5c32dd157085e5b94017f108",
+      "sizeBytes": 3500084,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__another_way.mp3",
+      "relativeUrl": "publish/assets/bgm__another_way.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__another_way.mp3"
+    },
+    {
+      "path": "bgm/back_to_back.mp3",
+      "sha256": "d97cf5df0c376704a5e7615d351b25370e4bcac4ee13cc3bb3bb8fe878e5c6a3",
+      "sizeBytes": 2274014,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__back_to_back.mp3",
+      "relativeUrl": "publish/assets/bgm__back_to_back.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__back_to_back.mp3"
+    },
+    {
+      "path": "bgm/blacksea.mp3",
+      "sha256": "15a196849197cb5d8b9fb0e7eab0c4657cf4675c7ba65556f3448a8eb1254782",
+      "sizeBytes": 7010941,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__blacksea.mp3",
+      "relativeUrl": "publish/assets/bgm__blacksea.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__blacksea.mp3"
+    },
+    {
+      "path": "bgm/catacomb_of_devil.mp3",
+      "sha256": "03b5f19de134b8702e41fbdb17af6e7b3908ec18c84e5eda72576bfc6af803af",
+      "sizeBytes": 3388394,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__catacomb_of_devil.mp3",
+      "relativeUrl": "publish/assets/bgm__catacomb_of_devil.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__catacomb_of_devil.mp3"
+    },
+    {
+      "path": "bgm/characterselect.mp3",
+      "sha256": "f1709f694320d162481cb6e6e72206099c174021f184ac4b89a54277cde150c6",
+      "sizeBytes": 481071,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__characterselect.mp3",
+      "relativeUrl": "publish/assets/bgm__characterselect.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__characterselect.mp3"
+    },
+    {
+      "path": "bgm/death_of_landmark.mp3",
+      "sha256": "10568b068d180687a7425e3fd4f1a3f06e90a3e4e7b3ea7e49aeb9e34e0e3161",
+      "sizeBytes": 3839779,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__death_of_landmark.mp3",
+      "relativeUrl": "publish/assets/bgm__death_of_landmark.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__death_of_landmark.mp3"
+    },
+    {
+      "path": "bgm/desert.mp3",
+      "sha256": "d7bb2a5823a80e79ed183f1abe0314ced4c522b2c04734af1676d6ce06c6959c",
+      "sizeBytes": 3788698,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__desert.mp3",
+      "relativeUrl": "publish/assets/bgm__desert.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__desert.mp3"
+    },
+    {
+      "path": "bgm/dungeon_fire.mp3",
+      "sha256": "202b14d12237b76efb80aaf05bbe18fa7f3047e7fad0befdd3c757bdcb8a2f13",
+      "sizeBytes": 4206772,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__dungeon_fire.mp3",
+      "relativeUrl": "publish/assets/bgm__dungeon_fire.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__dungeon_fire.mp3"
+    },
+    {
+      "path": "bgm/enter_the_east.mp3",
+      "sha256": "3b7a6ae71215fb405d41e231fa0b6245c0251c871b385b6c4d5931713441bf74",
+      "sizeBytes": 3289237,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__enter_the_east.mp3",
+      "relativeUrl": "publish/assets/bgm__enter_the_east.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__enter_the_east.mp3"
+    },
+    {
+      "path": "bgm/follow_war_god.mp3",
+      "sha256": "3e28049ee9c02ba32562deae22c63aa70d107665af15edcbd8e6eb3a90dc66d9",
+      "sizeBytes": 4960760,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__follow_war_god.mp3",
+      "relativeUrl": "publish/assets/bgm__follow_war_god.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__follow_war_god.mp3"
+    },
+    {
+      "path": "bgm/last-war2.mp3",
+      "sha256": "ffda972ae191c5ae3c437bdd13abb47ada94277c3355377c7aeb8ac5fed98b2f",
+      "sizeBytes": 2516430,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__last-war2.mp3",
+      "relativeUrl": "publish/assets/bgm__last-war2.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__last-war2.mp3"
+    },
+    {
+      "path": "bgm/login_window.mp3",
+      "sha256": "4c8d3899cddb2cfb876a619311a5fe19f1d7b6bcbe93a02a7e6299e144560be7",
+      "sizeBytes": 307617,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__login_window.mp3",
+      "relativeUrl": "publish/assets/bgm__login_window.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__login_window.mp3"
+    },
+    {
+      "path": "bgm/lost_my_name.mp3",
+      "sha256": "6b1d4948bd95decd3d3f378a96bc03d13be62a051cc2f6092c9308029a3745a5",
+      "sizeBytes": 2235562,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__lost_my_name.mp3",
+      "relativeUrl": "publish/assets/bgm__lost_my_name.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__lost_my_name.mp3"
+    },
+    {
+      "path": "bgm/m2bg.mp3",
+      "sha256": "aa81cced52c34a004f7b012d276ba6866f2cb6a381a66ac07d7fec5545ebda96",
+      "sizeBytes": 3793815,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__m2bg.mp3",
+      "relativeUrl": "publish/assets/bgm__m2bg.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__m2bg.mp3"
+    },
+    {
+      "path": "bgm/misty_forest.mp3",
+      "sha256": "193a67b2ac9007d0f57a3ad6f1d7200ee4ba2b182c6949cd155762a4a418e512",
+      "sizeBytes": 4763992,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__misty_forest.mp3",
+      "relativeUrl": "publish/assets/bgm__misty_forest.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__misty_forest.mp3"
+    },
+    {
+      "path": "bgm/monkey_temple.mp3",
+      "sha256": "86776c3846570cfaaebd6b33f493c3971ee7e3098b68bb9714238526fef42fed",
+      "sizeBytes": 3960321,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__monkey_temple.mp3",
+      "relativeUrl": "publish/assets/bgm__monkey_temple.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__monkey_temple.mp3"
+    },
+    {
+      "path": "bgm/mountain_of_death.mp3",
+      "sha256": "1d117ca3b1996e4e258d8c07c8fb67c39ae87efffb994e659e557bd311d54a6c",
+      "sizeBytes": 2552965,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__mountain_of_death.mp3",
+      "relativeUrl": "publish/assets/bgm__mountain_of_death.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__mountain_of_death.mp3"
+    },
+    {
+      "path": "bgm/mt.mp3",
+      "sha256": "2937b649fe95c517667a0d2111962191f465ed43dd79ebbf65921a667de1627a",
+      "sizeBytes": 7105609,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__mt.mp3",
+      "relativeUrl": "publish/assets/bgm__mt.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__mt.mp3"
+    },
+    {
+      "path": "bgm/Only_my_battle.mp3",
+      "sha256": "ed8834ac52d79b6907ec99862891d9aefaf75a9906b06e3d2f4d1b14cf8c4386",
+      "sizeBytes": 2396581,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__Only_my_battle.mp3",
+      "relativeUrl": "publish/assets/bgm__Only_my_battle.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__Only_my_battle.mp3"
+    },
+    {
+      "path": "bgm/open_the_gate.mp3",
+      "sha256": "af4eb2d9c4d0dd66a7d8d1b926ce2c45d2275618d3e58d1ab7fb60c43f979322",
+      "sizeBytes": 2831572,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__open_the_gate.mp3",
+      "relativeUrl": "publish/assets/bgm__open_the_gate.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__open_the_gate.mp3"
+    },
+    {
+      "path": "bgm/save_me.mp3",
+      "sha256": "f02e29e116a6573062b418613f0d81f9cb1aa8d5847f4ca7707dc2024395e6ad",
+      "sizeBytes": 3040133,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__save_me.mp3",
+      "relativeUrl": "publish/assets/bgm__save_me.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__save_me.mp3"
+    },
+    {
+      "path": "bgm/wedding.mp3",
+      "sha256": "a1ba70563a2d10099e43fd65882727d8c438985d838483c3318a5a826b887841",
+      "sizeBytes": 962458,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__wedding.mp3",
+      "relativeUrl": "publish/assets/bgm__wedding.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__wedding.mp3"
+    },
+    {
+      "path": "bgm/wonderland.mp3",
+      "sha256": "de6bee7f556d9c3b9a4989197153c59d7ed5ee015b8e905fec828fc5201fb6b6",
+      "sizeBytes": 4128917,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__wonderland.mp3",
+      "relativeUrl": "publish/assets/bgm__wonderland.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__wonderland.mp3"
+    },
+    {
+      "path": "bgm/xmas.mp3",
+      "sha256": "550633a9aecaa6eba7ec0f8200426482fe768fbb8985e242ec9ab4ae58000b66",
+      "sizeBytes": 1071229,
+      "category": "bgm",
+      "required": true,
+      "assetName": "bgm__xmas.mp3",
+      "relativeUrl": "publish/assets/bgm__xmas.mp3",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/bgm__xmas.mp3"
+    },
+    {
+      "path": "d3dx9_43.dll",
+      "sha256": "84b900dbd7fa978d6e0caee26fc54f2f61d92c9c75d10b35f00e3e82cd1d67b4",
+      "sizeBytes": 2401112,
+      "category": "managed",
+      "required": true,
+      "assetName": "d3dx9_43.dll",
+      "relativeUrl": "publish/assets/d3dx9_43.dll",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/d3dx9_43.dll"
+    },
+    {
+      "path": "Metin2_RelWithDebInfo.exe",
+      "sha256": "f5b8115b54624caa7ccbcf95dfd42e838783de52685d87ade6c07245f7d1201b",
+      "sizeBytes": 27600896,
+      "category": "executable",
+      "required": true,
+      "assetName": "Metin2_RelWithDebInfo.exe",
+      "relativeUrl": "publish/assets/Metin2_RelWithDebInfo.exe",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/Metin2_RelWithDebInfo.exe"
+    },
+    {
+      "path": "pack/Effect.pck",
+      "sha256": "cd34a0b4c54cb9424e35bc9ddfd4d921f066ad61a0900a3e902be9bbddb1b7f2",
+      "sizeBytes": 3320416,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Effect.pck",
+      "relativeUrl": "publish/assets/pack__Effect.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Effect.pck"
+    },
+    {
+      "path": "pack/ETC.pck",
+      "sha256": "381bd1731fda0777c9d775c24320141187c80a1e1e29e0975283f6c3c89b23b3",
+      "sizeBytes": 30798074,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__ETC.pck",
+      "relativeUrl": "publish/assets/pack__ETC.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__ETC.pck"
+    },
+    {
+      "path": "pack/guild.pck",
+      "sha256": "b6109c7ac23880b92f0c731ddc001c224c1660686af675303595df6e3f58f271",
+      "sizeBytes": 5444384,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__guild.pck",
+      "relativeUrl": "publish/assets/pack__guild.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__guild.pck"
+    },
+    {
+      "path": "pack/icon.pck",
+      "sha256": "eb97c7e72224062656d372d75a58ac72ffa0339422ba87a0a2edb2e522612e1e",
+      "sizeBytes": 5098472,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__icon.pck",
+      "relativeUrl": "publish/assets/pack__icon.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__icon.pck"
+    },
+    {
+      "path": "pack/indoordeviltower1.pck",
+      "sha256": "fe66de2c42811a38590a9181e7bb78a5678a1f41d7289814718115640719cd9e",
+      "sizeBytes": 81113,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__indoordeviltower1.pck",
+      "relativeUrl": "publish/assets/pack__indoordeviltower1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoordeviltower1.pck"
+    },
+    {
+      "path": "pack/indoormonkeydungeon1.pck",
+      "sha256": "782baf18a9ab503868fb227809f6dab92c7cbd8474bcf1327fa3e9ad2d3879e8",
+      "sizeBytes": 93043,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__indoormonkeydungeon1.pck",
+      "relativeUrl": "publish/assets/pack__indoormonkeydungeon1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon1.pck"
+    },
+    {
+      "path": "pack/indoormonkeydungeon2.pck",
+      "sha256": "8cfc03b9c29e3bc3b47ce7a34d8fda47abc2062f113109903ef216c899aa0fea",
+      "sizeBytes": 106939,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__indoormonkeydungeon2.pck",
+      "relativeUrl": "publish/assets/pack__indoormonkeydungeon2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon2.pck"
+    },
+    {
+      "path": "pack/indoormonkeydungeon3.pck",
+      "sha256": "19c8a4d6c72d73155ea7f21f9ecc2c8915a01e6020a9567872be6a48a68cab28",
+      "sizeBytes": 106092,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__indoormonkeydungeon3.pck",
+      "relativeUrl": "publish/assets/pack__indoormonkeydungeon3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoormonkeydungeon3.pck"
+    },
+    {
+      "path": "pack/indoorspiderdungeon1.pck",
+      "sha256": "cd1b6f01a952ed798b4db8e85c8aae4df31aa5d815d6efac19c5df3e6e9bb46d",
+      "sizeBytes": 56092,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__indoorspiderdungeon1.pck",
+      "relativeUrl": "publish/assets/pack__indoorspiderdungeon1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__indoorspiderdungeon1.pck"
+    },
+    {
+      "path": "pack/item.pck",
+      "sha256": "c7503bd522969a4d5b37f7cb9af6e2c58864a80ef1e6054950b107932fd7ddf8",
+      "sizeBytes": 6918513,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__item.pck",
+      "relativeUrl": "publish/assets/pack__item.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__item.pck"
+    },
+    {
+      "path": "pack/locale.pck",
+      "sha256": "e6dba1eb6f10b1aedb71e70db6c133961c9b1be4e98c37cec1f06d87715cc2e1",
+      "sizeBytes": 10060571,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__locale.pck",
+      "relativeUrl": "publish/assets/pack__locale.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__locale.pck"
+    },
+    {
+      "path": "pack/metin2_patch_5th_armor.pck",
+      "sha256": "10d9268309f7787c2aa47f30c4bf9d9d5ea8fdbf630143df18b882bd39a19103",
+      "sizeBytes": 5395464,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_5th_armor.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_5th_armor.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_5th_armor.pck"
+    },
+    {
+      "path": "pack/metin2_patch_costume_soccer.pck",
+      "sha256": "21de0ba282a78ac047c8df48f6b3963e06a09052c803cb836fcdb059f2f53cbe",
+      "sizeBytes": 55922329,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_costume_soccer.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_costume_soccer.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_costume_soccer.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dance.pck",
+      "sha256": "00de4d9f638696348ef5a33419dfcff0b4bcaafa3662222944a3a1fbd670165e",
+      "sizeBytes": 7543922,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dance.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dance.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dance.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dragon_rock.pck",
+      "sha256": "68b6194e8e28ec76d4e1b405c9203a0028a04964e3908c63969a6931e2179a6a",
+      "sizeBytes": 22189997,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dragon_rock.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dragon_rock.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dragon_rock_mobs.pck",
+      "sha256": "f7eafff44d90b37a43fd77b1e9a696c6ea73ee1ba042bb4a1c59c81b89d9b9fd",
+      "sizeBytes": 54488526,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dragon_rock_mobs.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dragon_rock_mobs.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_mobs.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dragon_rock_mobs_texcache.pck",
+      "sha256": "5b6e90a0d92676b6ea78fa6df605fff5b0b7f79f70137d7e5e2652262a3433cd",
+      "sizeBytes": 14071327,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dragon_rock_mobs_texcache.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dragon_rock_mobs_texcache.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_mobs_texcache.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dragon_rock_texcache.pck",
+      "sha256": "926181f566e76618afa64e2659f1f85e90827b05d50f78481e8ea2737b085be4",
+      "sizeBytes": 40080263,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dragon_rock_texcache.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dragon_rock_texcache.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dragon_rock_texcache.pck"
+    },
+    {
+      "path": "pack/metin2_patch_ds.pck",
+      "sha256": "d6379701b6e409c86f1d8f75e2dd663742b2a4a3df0cc9c3b953f99011324ece",
+      "sizeBytes": 793133,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_ds.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_ds.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_ds.pck"
+    },
+    {
+      "path": "pack/metin2_patch_dss_box.pck",
+      "sha256": "ee9c7191e02dac00fc4e320da67bb03e9683bb2b9ff1905cacb13c55c7da3b67",
+      "sizeBytes": 270297,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_dss_box.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_dss_box.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_dss_box.pck"
+    },
+    {
+      "path": "pack/metin2_patch_easter1.pck",
+      "sha256": "6406ef56260c7ccfa46f3c517898700ad677f6ef59edd084b63978e9344265ea",
+      "sizeBytes": 6479651,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_easter1.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_easter1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_easter1.pck"
+    },
+    {
+      "path": "pack/metin2_patch_etc.pck",
+      "sha256": "a94ebe41b03ad38f3d4873aae7f7d0bc897cf88df895879edb8f54e3e2c3691c",
+      "sizeBytes": 4571661,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_etc.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_etc.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_etc.pck"
+    },
+    {
+      "path": "pack/metin2_patch_etc_costume1.pck",
+      "sha256": "afbcfc0735abe3b5aab410d44379f251706e4306b501c8c9a356dacddd4b6dca",
+      "sizeBytes": 11844796,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_etc_costume1.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_etc_costume1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_etc_costume1.pck"
+    },
+    {
+      "path": "pack/metin2_patch_eu3.pck",
+      "sha256": "e12d81079f6e93df55b9a39272ed4af4e31de37c80f4537672911e32fe180bac",
+      "sizeBytes": 30384959,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_eu3.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_eu3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_eu3.pck"
+    },
+    {
+      "path": "pack/metin2_patch_eu4.pck",
+      "sha256": "a46f010a0ba4f31f70e49ae6284b49d8d19507e65c3264564e47b16078373e41",
+      "sizeBytes": 9357458,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_eu4.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_eu4.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_eu4.pck"
+    },
+    {
+      "path": "pack/metin2_patch_flame.pck",
+      "sha256": "2b8cef290278ee3f7d901bbc99d8c097661e849fd41ffadc8bb806adbc8e0618",
+      "sizeBytes": 4282087,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_flame.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_flame.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_flame.pck"
+    },
+    {
+      "path": "pack/metin2_patch_flame_dungeon.pck",
+      "sha256": "3d79ccc42baf30766d2d77ef8fe45defc342a6492d2b0d184a154cdf8a1ffe8d",
+      "sizeBytes": 5833262,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_flame_dungeon.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_flame_dungeon.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_flame_dungeon.pck"
+    },
+    {
+      "path": "pack/metin2_patch_halloween.pck",
+      "sha256": "1daedbedea409b73a07a25fee2fddfffdec16cfce562d3195245de0fa98475a8",
+      "sizeBytes": 5089097,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_halloween.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_halloween.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_halloween.pck"
+    },
+    {
+      "path": "pack/metin2_patch_mineral.pck",
+      "sha256": "72b537b0a7c1c43b9d5ab7cb6831808faadaf456c2a9800ad7648eaa1c3eea10",
+      "sizeBytes": 348526,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_mineral.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_mineral.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_mineral.pck"
+    },
+    {
+      "path": "pack/metin2_patch_mundi.pck",
+      "sha256": "7a2bad32d0b4a9bbb2f75ae16933a5942e7dc4910a1ef583faa2136372100974",
+      "sizeBytes": 41298537,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_mundi.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_mundi.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_mundi.pck"
+    },
+    {
+      "path": "pack/metin2_patch_party.pck",
+      "sha256": "e42f3c77326360edf0d95b3889c0de3722ff53453b4c31cdb9500fe92b3c7cc0",
+      "sizeBytes": 10610238,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_party.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_party.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_party.pck"
+    },
+    {
+      "path": "pack/metin2_patch_pet1.pck",
+      "sha256": "e65b6d65acdfe098874097a53eaade0717f62b642d762f0ce2cc51ed2c584ebf",
+      "sizeBytes": 7163063,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_pet1.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_pet1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_pet1.pck"
+    },
+    {
+      "path": "pack/metin2_patch_pet2.pck",
+      "sha256": "a6120f888e30781ef4dc749276566a8325c4093ed718f21a2ca34b32cb5e8455",
+      "sizeBytes": 3133521,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_pet2.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_pet2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_pet2.pck"
+    },
+    {
+      "path": "pack/metin2_patch_ramadan_costume.pck",
+      "sha256": "d0aaccb8a5010b9fde2437947534c8c2e02fb04d2608e7ababa606a4124f81f5",
+      "sizeBytes": 1850030,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_ramadan_costume.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_ramadan_costume.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_ramadan_costume.pck"
+    },
+    {
+      "path": "pack/metin2_patch_sd.pck",
+      "sha256": "44ea618597120034bc0562b62d1a17d53707ccac5f7fad3daa5866d0ebafbece",
+      "sizeBytes": 3280530,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_sd.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_sd.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_sd.pck"
+    },
+    {
+      "path": "pack/metin2_patch_snow.pck",
+      "sha256": "73f1e34f431178410ff8d204b96930a1ce4144ad712811a5b2566b453e2390ab",
+      "sizeBytes": 2666443,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_snow.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_snow.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_snow.pck"
+    },
+    {
+      "path": "pack/metin2_patch_snow_dungeon.pck",
+      "sha256": "52d1a1acb9c58db748e530bcbcdacea5d80d7b9236e2e16a994a59d62928b989",
+      "sizeBytes": 9252246,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_snow_dungeon.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_snow_dungeon.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_snow_dungeon.pck"
+    },
+    {
+      "path": "pack/metin2_patch_w20_etc.pck",
+      "sha256": "f25909f434f3d12170431bdcf2c1898582c55dfe5d956c9e1d55358412549681",
+      "sizeBytes": 371631,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_w20_etc.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_w20_etc.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w20_etc.pck"
+    },
+    {
+      "path": "pack/metin2_patch_w20_sound.pck",
+      "sha256": "da857334a650de68fb5d5f78934081b143983837facb6a6b13268ecf675258dc",
+      "sizeBytes": 11980250,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_w20_sound.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_w20_sound.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w20_sound.pck"
+    },
+    {
+      "path": "pack/metin2_patch_w21_etc.pck",
+      "sha256": "4e0a4f861dd62aa673e9719469f07ddfde35e937bd70dc5225679c3c6a8c6408",
+      "sizeBytes": 101829,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_w21_etc.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_w21_etc.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_etc.pck"
+    },
+    {
+      "path": "pack/metin2_patch_w21_mobs.pck",
+      "sha256": "01f9b22114b73f47060ee360e5fcb48b413ede197da41380aa8f12dcb1428bca",
+      "sizeBytes": 8355846,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_w21_mobs.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_w21_mobs.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_mobs.pck"
+    },
+    {
+      "path": "pack/metin2_patch_w21_mobs_m.pck",
+      "sha256": "891cd81eac7c8d370061d6f725fdad82594488b16d65d1bb81f2f70c2f5b7006",
+      "sizeBytes": 147267,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_w21_mobs_m.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_w21_mobs_m.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_w21_mobs_m.pck"
+    },
+    {
+      "path": "pack/metin2_patch_xmas.pck",
+      "sha256": "fc421678f8090c1f604c73cc938dc21ac34c5ac75e21ea6af2c00dcc94c01141",
+      "sizeBytes": 15841662,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__metin2_patch_xmas.pck",
+      "relativeUrl": "publish/assets/pack__metin2_patch_xmas.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__metin2_patch_xmas.pck"
+    },
+    {
+      "path": "pack/Monster.pck",
+      "sha256": "08d8013adedb7b1b1aab4f2090465a91f7976b26c7bec0dffc33b9bf012a0793",
+      "sizeBytes": 62712106,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Monster.pck",
+      "relativeUrl": "publish/assets/pack__Monster.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Monster.pck"
+    },
+    {
+      "path": "pack/monster2.pck",
+      "sha256": "c1485269c5896dfaedce16524c2895d06140f421eb0e98122f2aae4af6d97be8",
+      "sizeBytes": 26993102,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__monster2.pck",
+      "relativeUrl": "publish/assets/pack__monster2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__monster2.pck"
+    },
+    {
+      "path": "pack/NPC.pck",
+      "sha256": "6ee017d3660e8715d32a250c0d2deed979384bb567c661aa0a1a04b20d830a82",
+      "sizeBytes": 18612295,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__NPC.pck",
+      "relativeUrl": "publish/assets/pack__NPC.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__NPC.pck"
+    },
+    {
+      "path": "pack/npc2.pck",
+      "sha256": "508d1028d0ac7433c6734f638a752d3c6b2a89a9cb5b7b0fb0ccb873a9dec7cb",
+      "sizeBytes": 262791,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__npc2.pck",
+      "relativeUrl": "publish/assets/pack__npc2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__npc2.pck"
+    },
+    {
+      "path": "pack/Outdoor.pck",
+      "sha256": "bfe0e7ce696c7b4e7a829be644fa7645a8af942bd39da2d0f065e8a57c612ac1",
+      "sizeBytes": 1203274,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Outdoor.pck",
+      "relativeUrl": "publish/assets/pack__Outdoor.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Outdoor.pck"
+    },
+    {
+      "path": "pack/OutdoorA1.pck",
+      "sha256": "9124eb90226a96a57767392a35a54bff8da03cd0f4567816dedf75e6a360782e",
+      "sizeBytes": 1403269,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorA1.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorA1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA1.pck"
+    },
+    {
+      "path": "pack/OutdoorA2.pck",
+      "sha256": "e45273044c6ccbe2701471ec89c7207b3997ee97d1e84bd98d3e92ec2ab31d04",
+      "sizeBytes": 2501383,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorA2.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorA2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA2.pck"
+    },
+    {
+      "path": "pack/OutdoorA3.pck",
+      "sha256": "5b1e8e747f4d81aca0129bc36c9550fcf68c69f9084369e96d5251c80ee4e6a1",
+      "sizeBytes": 1114472,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorA3.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorA3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorA3.pck"
+    },
+    {
+      "path": "pack/OutdoorB1.pck",
+      "sha256": "05f5b8521174657be108062e9e01ec05222b8c7c8650b5ac1916689d106ef1be",
+      "sizeBytes": 1682615,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorB1.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorB1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorB1.pck"
+    },
+    {
+      "path": "pack/OutdoorB3.pck",
+      "sha256": "37bbedbb4c4f491c3a0868525266f86976ac7398f770d0f51bdadbef7acb8bd1",
+      "sizeBytes": 1667099,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorB3.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorB3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorB3.pck"
+    },
+    {
+      "path": "pack/OutdoorC1.pck",
+      "sha256": "cd497ac915faeda9b2eaa03a3fcc88cb5a44b681e70fd15b09aad5cffb59c24f",
+      "sizeBytes": 1134910,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorC1.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorC1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorC1.pck"
+    },
+    {
+      "path": "pack/OutdoorC3.pck",
+      "sha256": "537041e190289e9af1d6e77721ad7bb262b563838c6e9bc6d7622232d21c0b1e",
+      "sizeBytes": 1077969,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorC3.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorC3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorC3.pck"
+    },
+    {
+      "path": "pack/outdoordesert1.pck",
+      "sha256": "07d0a88f9ca267a8b8c2adbe27b2827de88fe9cb3bb22662fc1095578797dfdd",
+      "sizeBytes": 2098172,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoordesert1.pck",
+      "relativeUrl": "publish/assets/pack__outdoordesert1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoordesert1.pck"
+    },
+    {
+      "path": "pack/outdoorduel.pck",
+      "sha256": "550966a71c59dd6035f30b61bf56b812d85af07b61118585175189dc2105b657",
+      "sizeBytes": 60618,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorduel.pck",
+      "relativeUrl": "publish/assets/pack__outdoorduel.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorduel.pck"
+    },
+    {
+      "path": "pack/outdoorempirebattle1.pck",
+      "sha256": "85e63f99ea858d6bd913ebce8d4da9e9aca3cf4a56957f322a3eea960abfaf12",
+      "sizeBytes": 656535,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorempirebattle1.pck",
+      "relativeUrl": "publish/assets/pack__outdoorempirebattle1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorempirebattle1.pck"
+    },
+    {
+      "path": "pack/outdoorfielddungeon1.pck",
+      "sha256": "be20b738e0df6d095608b9399477b2638ca5a45ba4a71f38088d51beab248474",
+      "sizeBytes": 256655,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorfielddungeon1.pck",
+      "relativeUrl": "publish/assets/pack__outdoorfielddungeon1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorfielddungeon1.pck"
+    },
+    {
+      "path": "pack/outdoorflame1.pck",
+      "sha256": "9fdbbdaa4aad5beddd4939c36990c7d1726ed0fca9b47f97503c1e5103f4eb5d",
+      "sizeBytes": 2344555,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorflame1.pck",
+      "relativeUrl": "publish/assets/pack__outdoorflame1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorflame1.pck"
+    },
+    {
+      "path": "pack/outdoorgmguildbuild.pck",
+      "sha256": "89135ce3078b3ba25f26ed5954d510581e60db81901a354de95b0c17529fe4d7",
+      "sizeBytes": 42506,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorgmguildbuild.pck",
+      "relativeUrl": "publish/assets/pack__outdoorgmguildbuild.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorgmguildbuild.pck"
+    },
+    {
+      "path": "pack/outdoorguild1.pck",
+      "sha256": "b5954f666153643865143b84f61a50f4b9043f7e07531ad20ddf720ef26b7566",
+      "sizeBytes": 273915,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorguild1.pck",
+      "relativeUrl": "publish/assets/pack__outdoorguild1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild1.pck"
+    },
+    {
+      "path": "pack/outdoorguild2.pck",
+      "sha256": "7d1eb1ef4fad220894c18bb6706999c39531faf77d6d8574b97e67ba31b8c56f",
+      "sizeBytes": 248116,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorguild2.pck",
+      "relativeUrl": "publish/assets/pack__outdoorguild2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild2.pck"
+    },
+    {
+      "path": "pack/outdoorguild3.pck",
+      "sha256": "a8ac7faa5199f6ca6772bb90d9a229b18e8c1a6917eb31d333954fd0660f575a",
+      "sizeBytes": 264627,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorguild3.pck",
+      "relativeUrl": "publish/assets/pack__outdoorguild3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorguild3.pck"
+    },
+    {
+      "path": "pack/outdoormilgyo1.pck",
+      "sha256": "65386b8e2a1229f6791b25d6994d999e5afd2611e482d5b9d79c315936c00f65",
+      "sizeBytes": 939716,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoormilgyo1.pck",
+      "relativeUrl": "publish/assets/pack__outdoormilgyo1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoormilgyo1.pck"
+    },
+    {
+      "path": "pack/OutdoorSnow1.pck",
+      "sha256": "57f66481a63518e61d3b0ef07452c045cda42b6f9f6cf39f956b56ceba536ff7",
+      "sizeBytes": 2640836,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__OutdoorSnow1.pck",
+      "relativeUrl": "publish/assets/pack__OutdoorSnow1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__OutdoorSnow1.pck"
+    },
+    {
+      "path": "pack/outdoort1.pck",
+      "sha256": "703141ba500d0f04c5ba5453a015589cf77f6ddad51bc95475cdc01d5ad57e6f",
+      "sizeBytes": 583508,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoort1.pck",
+      "relativeUrl": "publish/assets/pack__outdoort1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort1.pck"
+    },
+    {
+      "path": "pack/outdoort2.pck",
+      "sha256": "96399ca0f17361e8b8624973680fd079f6c18002f517e2ded2944d8995ed003a",
+      "sizeBytes": 81526,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoort2.pck",
+      "relativeUrl": "publish/assets/pack__outdoort2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort2.pck"
+    },
+    {
+      "path": "pack/outdoort3.pck",
+      "sha256": "3e1b2bb0b49fee6554103acb02637b2e06a489284c702e222937ea13820af2f6",
+      "sizeBytes": 71265,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoort3.pck",
+      "relativeUrl": "publish/assets/pack__outdoort3.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort3.pck"
+    },
+    {
+      "path": "pack/outdoort4.pck",
+      "sha256": "fb579d446fd5b142106899c71089a09a58a52dde03777c6ab670fee9c4bed910",
+      "sizeBytes": 70170,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoort4.pck",
+      "relativeUrl": "publish/assets/pack__outdoort4.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoort4.pck"
+    },
+    {
+      "path": "pack/outdoortrent.pck",
+      "sha256": "494acfdc490521a8755a86f3e2e0a9b16ad66b40ad585b08888605f7f970e802",
+      "sizeBytes": 313164,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoortrent.pck",
+      "relativeUrl": "publish/assets/pack__outdoortrent.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoortrent.pck"
+    },
+    {
+      "path": "pack/outdoortrent02.pck",
+      "sha256": "c74aaf75092403938ab72e6195d18baec54570383e912dc8a1658a27689c311f",
+      "sizeBytes": 730879,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoortrent02.pck",
+      "relativeUrl": "publish/assets/pack__outdoortrent02.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoortrent02.pck"
+    },
+    {
+      "path": "pack/outdoorwedding.pck",
+      "sha256": "182f09f1c53e117d0fd952843184e62b87b98c03c8ba1ca97336b55219dd4281",
+      "sizeBytes": 75767,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__outdoorwedding.pck",
+      "relativeUrl": "publish/assets/pack__outdoorwedding.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__outdoorwedding.pck"
+    },
+    {
+      "path": "pack/patch1.pck",
+      "sha256": "c1c680d71ca25c403a803de8d116b8493fac2a70eb08bc13fb7fdf0c3d392c64",
+      "sizeBytes": 79095470,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__patch1.pck",
+      "relativeUrl": "publish/assets/pack__patch1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__patch1.pck"
+    },
+    {
+      "path": "pack/patch2.pck",
+      "sha256": "571d06d9caf33161e8de0b303f9091c7895290de4145b024ec6edfa34dc9b1b2",
+      "sizeBytes": 18385263,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__patch2.pck",
+      "relativeUrl": "publish/assets/pack__patch2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__patch2.pck"
+    },
+    {
+      "path": "pack/PC.pck",
+      "sha256": "c55d129cffc0060776a577a9ca7cfe98abecdc3997fa4afd1eaaf66257e06a02",
+      "sizeBytes": 63392343,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__PC.pck",
+      "relativeUrl": "publish/assets/pack__PC.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__PC.pck"
+    },
+    {
+      "path": "pack/pc2.pck",
+      "sha256": "5d420e5a31ba63fd1738ad15104b93068855a8b10f304287f15a64cdb4d5afa5",
+      "sizeBytes": 56524009,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__pc2.pck",
+      "relativeUrl": "publish/assets/pack__pc2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__pc2.pck"
+    },
+    {
+      "path": "pack/Property.pck",
+      "sha256": "fc1586014c8f1c9ff3c71bd3466b3e801159eeab45b058ae42c35da01941eaa8",
+      "sizeBytes": 10198420,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Property.pck",
+      "relativeUrl": "publish/assets/pack__Property.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Property.pck"
+    },
+    {
+      "path": "pack/root.pck",
+      "sha256": "49fce6424c09d3d3f9b0f195f4b1cda71eae0248fe2470193b70891a009cef3d",
+      "sizeBytes": 568788,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__root.pck",
+      "relativeUrl": "publish/assets/pack__root.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__root.pck"
+    },
+    {
+      "path": "pack/season1.pck",
+      "sha256": "f31a7ce6816062b8aaef850a7ba09c3a6709ce5c39d1c7b64fbc322d5834ed3f",
+      "sizeBytes": 46136133,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__season1.pck",
+      "relativeUrl": "publish/assets/pack__season1.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season1.pck"
+    },
+    {
+      "path": "pack/season2.pck",
+      "sha256": "136c30bc12098bc2a3e97ac025b31df0e9000fc9977d19fadf58180ff93be817",
+      "sizeBytes": 18044309,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__season2.pck",
+      "relativeUrl": "publish/assets/pack__season2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season2.pck"
+    },
+    {
+      "path": "pack/season3_eu.pck",
+      "sha256": "1f59000b2ab12562ccb7401ed0e8960466a720c00c244aee6421ede449b523e3",
+      "sizeBytes": 23481964,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__season3_eu.pck",
+      "relativeUrl": "publish/assets/pack__season3_eu.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__season3_eu.pck"
+    },
+    {
+      "path": "pack/Sound.pck",
+      "sha256": "bd34875fa34b87e2ebec52e0975c2fef01d90a045736cd21c22b6c8f70afcf67",
+      "sizeBytes": 40060762,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Sound.pck",
+      "relativeUrl": "publish/assets/pack__Sound.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Sound.pck"
+    },
+    {
+      "path": "pack/sound2.pck",
+      "sha256": "e56b2a1c87da758aff388bfa46ee8c2e61e6638d9d518801c5739ab0390a6920",
+      "sizeBytes": 20723897,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__sound2.pck",
+      "relativeUrl": "publish/assets/pack__sound2.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__sound2.pck"
+    },
+    {
+      "path": "pack/sound_m.pck",
+      "sha256": "c6cccd81e1965307fcc57a34578bd34c057d7a8150c12f5d4f355bbd638db422",
+      "sizeBytes": 642541,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__sound_m.pck",
+      "relativeUrl": "publish/assets/pack__sound_m.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__sound_m.pck"
+    },
+    {
+      "path": "pack/Terrain.pck",
+      "sha256": "6948cbedff520351de47ee92e5ed88fb43e59c81f51f532d4719d5f35e164e54",
+      "sizeBytes": 10216043,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Terrain.pck",
+      "relativeUrl": "publish/assets/pack__Terrain.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Terrain.pck"
+    },
+    {
+      "path": "pack/textureset.pck",
+      "sha256": "42b17b5f1b144b415176cd5f34a297c6f0ad787a7524ed19852f7dce3493af42",
+      "sizeBytes": 25162,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__textureset.pck",
+      "relativeUrl": "publish/assets/pack__textureset.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__textureset.pck"
+    },
+    {
+      "path": "pack/Tree.pck",
+      "sha256": "60636d9b879921cd8356afd5c190663f35fd71964495e8ac4320428edf878c97",
+      "sizeBytes": 3264060,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Tree.pck",
+      "relativeUrl": "publish/assets/pack__Tree.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Tree.pck"
+    },
+    {
+      "path": "pack/uiloading.pck",
+      "sha256": "45fc60c6ff2176f028b7bbba077b0b300cb50974604344a0166aca5e7682144b",
+      "sizeBytes": 285519,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__uiloading.pck",
+      "relativeUrl": "publish/assets/pack__uiloading.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__uiloading.pck"
+    },
+    {
+      "path": "pack/uiscript.pck",
+      "sha256": "a6551016d9f8083606662b048f04b3af075b3f6edc77b3e17c964a5b8fdc6329",
+      "sizeBytes": 87056,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__uiscript.pck",
+      "relativeUrl": "publish/assets/pack__uiscript.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__uiscript.pck"
+    },
+    {
+      "path": "pack/Zone.pck",
+      "sha256": "e23f50dc1a9a5aa7b8bbe55b03c61bfb716e2cba8c7b0865ab53925000f8885e",
+      "sizeBytes": 87139615,
+      "category": "pack",
+      "required": true,
+      "assetName": "pack__Zone.pck",
+      "relativeUrl": "publish/assets/pack__Zone.pck",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/pack__Zone.pck"
+    },
+    {
+      "path": "version.txt",
+      "sha256": "20df603e198c4f9aa9f50c9da5f4c1679aa05b14fd99fb444875b27028f98888",
+      "sizeBytes": 9,
+      "category": "version",
+      "required": true,
+      "assetName": "version.txt",
+      "relativeUrl": "publish/assets/version.txt",
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2/version.txt"
+    }
+  ],
+  "tombstones": [],
+  "changelogSummary": [
+    "Launcher V2 current feed hotfix refresh on top of public 1.0.14.",
+    "Included public-safe client changes: Mob Info target board, Staff Messenger client support, desync logging disabled.",
+    "Inventory 4 pages remains dev-only and is not included in this public release."
+  ]
 }
