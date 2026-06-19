@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "buildId": "afterfall_current_20260617_204153",
-  "version": "1.0.14",
-  "producedAtUtc": "2026-06-17T18:42:31Z",
+  "buildId": "afterfall_current_20260619_121233",
+  "version": "1.0.15",
+  "producedAtUtc": "2026-06-19T10:12:33Z",
   "launcherMinVersion": "2.0.0",
   "policyVersion": "afterfall-v2-policy-2026-05-29",
   "assetModel": "flat_release_assets",
-  "assetBaseUrl": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153",
+  "assetBaseUrl": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-switchbot-mobinfo-20260619-121233",
   "currentFull": {
     "assetName": "client_current.zip",
     "relativeUrl": "publish/client_current.zip",
-    "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/client_current.zip",
-    "sha256": "96476853122ac925aff2936553e8c1cdeafb60c00a2082f5fa412287e66a87d3",
-    "sizeBytes": 1181425862
+    "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-switchbot-mobinfo-20260619-121233/client_current.zip",
+    "sha256": "bd55cfbc1cef6b9e9a7313ada92f790de983caaca24a5faa4fd0b39d1b4821a2",
+    "sizeBytes": 1181428991
   },
   "files": [
     {
@@ -1067,13 +1067,13 @@
     },
     {
       "path": "pack/root.pck",
-      "sha256": "33f2945add51ca820ca50e564db1ed3d5b223aca5cc6415d2dde6f51ae516a10",
-      "sizeBytes": 568895,
+      "sha256": "034d9bce77ce348594c52844dd57e6ff82bda8b4ffa5721a86e8e030eb5ade6e",
+      "sizeBytes": 572024,
       "category": "pack",
       "required": true,
       "assetName": "pack__root.pck",
       "relativeUrl": "publish/assets/pack__root.pck",
-      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-inventory4p-20260617-204153/pack__root.pck"
+      "url": "https://github.com/brolabitalia/afterfall-client-updates/releases/download/afterfall-client-current-v2-switchbot-mobinfo-20260619-121233/pack__root.pck"
     },
     {
       "path": "pack/season1.pck",
@@ -1208,8 +1208,8 @@
   ],
   "tombstones": [],
   "changelogSummary": [
-    "Launcher V2 current feed refresh on top of public 1.0.14.",
-    "Included client patch set: Mob Info target board, Staff Messenger support, desync logging disabled, player inventory 4 pages.",
-    "Inventory runtime is now 0-179 with equip start 180 and belt start 212; client and server must stay paired on this build."
+    "Switchbot client stability hotfix to avoid false stop on delayed item update confirmation.",
+    "Mob Info target board UI hotfix for long reward lines with controlled two-line wrapping.",
+    "No server or protocol changes in this client feed update."
   ]
 }
